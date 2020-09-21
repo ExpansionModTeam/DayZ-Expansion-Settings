@@ -1,0 +1,49 @@
+{
+    "Enabled": 0,
+    "EnableVehicleinvincibleInsideSafeZone": 1,
+    "FrameRateCheckSafeZoneInMs": 5000,
+    "CircleZones": [
+        {
+            "Type": 1,
+            "Center": [
+                11849.6,
+                0,
+                12471.6
+            ],
+            "Radius": 500
+        }
+    ],
+    "PolygonZones": [
+        {
+            "Type": 2,
+            "Positions": [
+                [
+                    6345,
+                    0,
+                    2181
+                ],
+                [
+                    6198,
+                    0,
+                    2433
+                ],
+                [
+                    6565,
+                    0,
+                    2945
+                ],
+                [
+                    7000,
+                    0,
+                    2521
+                ]
+            ],
+            "CenterPolygon": [
+                0,
+                0,
+                0
+            ],
+            "RadiusPolygon": 0
+        }
+    ]
+}

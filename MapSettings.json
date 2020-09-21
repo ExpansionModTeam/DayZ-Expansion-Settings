@@ -1,0 +1,108 @@
+{
+    "EnableMap": 0,
+    "UseMapOnMapItem": 0,
+    "ShowPlayerPosition": 0,
+    "ShowMapStats": 0,
+    "CanCreateMarker": 0,
+    "CanCreate3DMarker": 0,
+    "CanOpenMapWithKeyBinding": 0,
+    "EnableHUDGPS": 0,
+    "NeedGPSItemForKeyBinding": 0,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 0,
+    "ShowNameOnServerMarkers": 0,
+    "ShowDistanceOnServerMarkers": 0,
+    "ServerMarkers": [
+        {
+            "m_UID": "tommys",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Tommy's Trader",
+            "m_IconName": "Trader",
+            "m_Color": -1618884,
+            "m_Position": [
+                9766.82,
+                261.712,
+                10116.8
+            ]
+        },
+        {
+            "m_UID": "helitrader",
+            "m_Visibility": 6,
+            "m_Is3D": 0,
+            "m_Text": "Heli Trader",
+            "m_IconName": "Helicopter",
+            "m_Color": -1618884,
+            "m_Position": [
+                3581.71,
+                238.242,
+                9889.8
+            ]
+        },
+        {
+            "m_UID": "mooses",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Moose's Market",
+            "m_IconName": "Trader",
+            "m_Color": -13330213,
+            "m_Position": [
+                7659.21,
+                9.47804,
+                2331.68
+            ]
+        },
+        {
+            "m_UID": "city",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Downtown",
+            "m_IconName": "Radio",
+            "m_Color": -13330213,
+            "m_Position": [
+                11814.4,
+                611.509,
+                10120.5
+            ]
+        },
+        {
+            "m_UID": "toxic1",
+            "m_Visibility": 6,
+            "m_Is3D": 0,
+            "m_Text": "Borek Toxic Zone",
+            "m_IconName": "Radiation",
+            "m_Color": -16646399,
+            "m_Position": [
+                9825.29,
+                209.569,
+                8506.89
+            ]
+        },
+        {
+            "m_UID": "toxic2",
+            "m_Visibility": 6,
+            "m_Is3D": 0,
+            "m_Text": "Lembork Toxic Zone",
+            "m_IconName": "Radiation",
+            "m_Color": -16646399,
+            "m_Position": [
+                9042.18,
+                299.643,
+                6627.71
+            ]
+        },
+        {
+            "m_UID": "bm",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Black Market",
+            "m_IconName": "Skull",
+            "m_Color": -1618884,
+            "m_Position": [
+                568.85,
+                611.509,
+                1132.63
+            ]
+        }
+    ]
+}

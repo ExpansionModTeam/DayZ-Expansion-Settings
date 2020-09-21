@@ -1,0 +1,50 @@
+{
+    "StartingClothing": {
+        "UseCustomClothing": 0,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_Green"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "TrackSuitPants_Black",
+            "TrackSuitPants_Red",
+            "TrackSuitPants_Green"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "StartingGear": {
+        "UseStartingGear": 0,
+        "UsingUpperGear": 0,
+        "UsingPantsGear": 0,
+        "UsingBackpackGear": 0,
+        "UpperGear": [
+            "Rag",
+            "Chemlight_White",
+            "StoneKnife",
+            "Apple"
+        ],
+        "PantsGear": [],
+        "BackpackGear": [
+            "SpaghettiCan",
+            "BakedBeansCan"
+        ]
+    }
+}
