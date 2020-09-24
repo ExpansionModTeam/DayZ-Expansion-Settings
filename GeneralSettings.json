@@ -81,5 +81,6 @@
     "UnlimitedStamina": 0,
     "UseDeathScreen": 1,
     "UseDeathScreenStatistics": 1,
-    "UseNewsFeedInGameMenu": 1
+    "UseNewsFeedInGameMenu": 1,
+    "DismantleFlagRequireTools": 0
 }
