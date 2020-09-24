@@ -14,7 +14,7 @@
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 1,
     "DestroyFlagOnDismantle": 1,
-    "DismantleFlagRequireTools": 1,
+    "DismantleFlagRequireTools": 0,
     "DismantleOutsideTerritory": 0,
     "DismantleAnywhere": 0,
     "CodeLockLength": 4,
