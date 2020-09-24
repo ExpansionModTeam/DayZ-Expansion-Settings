@@ -1,18 +1,35 @@
 {
     "StartingClothing": {
-        "UseCustomClothing": 0,
+        "EnableCustomClothing": 1,
+        "SetRandomHeath": 1,
         "Headgear": [],
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green"
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
+            "TShirt_OrangeWhiteStipes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
+            "TShirt_RedBlackStipes"
         ],
         "Vests": [],
         "Gloves": [],
         "Pants": [
-            "TrackSuitPants_Black",
-            "TrackSuitPants_Red",
-            "TrackSuitPants_Green"
+            "CanvasPants_Beige",
+            "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
+            "CanvasPantsMidi_Violet"
         ],
         "Belts": [],
         "Shoes": [
@@ -31,20 +48,30 @@
         ]
     },
     "StartingGear": {
-        "UseStartingGear": 0,
-        "UsingUpperGear": 0,
-        "UsingPantsGear": 0,
-        "UsingBackpackGear": 0,
+        "EnableStartingGear": 1,
+        "UseUpperGear": 1,
+        "UsePantsGear": 0,
+        "UseBackpackGear": 1,
+        "UseVestGear": 0,
+        "UsePrimaryWeapon": 0,
+        "UseSecondaryWeapon": 0,
         "UpperGear": [
             "Rag",
-            "Chemlight_White",
             "StoneKnife",
             "Apple"
         ],
         "PantsGear": [],
         "BackpackGear": [
             "SpaghettiCan",
-            "BakedBeansCan"
-        ]
+            "BakedBeansCan",
+            "Chemlight_White"
+        ],
+        "VestGear": [],
+        "PrimaryWeapon": "",
+        "PrimaryWeaponAttachments": [],
+        "SecondaryWeapon": "",
+        "SecondaryWeaponAttachments": [],
+        "ApplyEnergySources": 1,
+        "SetRandomHeath": 1
     }
 }
