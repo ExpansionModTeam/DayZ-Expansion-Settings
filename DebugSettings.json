@@ -1,3 +1,6 @@
 {
-    "ShowVehicleDebugMarkers": 0
+    "ShowVehicleDebugMarkers": 0,
+    "DebugVehicleSync": 0,
+    "DebugVehicleTransformSet": 0,
+    "DebugVehiclePlayerNetworkBubbleMode": 0
 }

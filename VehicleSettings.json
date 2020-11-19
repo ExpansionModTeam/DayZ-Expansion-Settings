@@ -7,5 +7,6 @@
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,
     "PlayerAttachment": 1,
-    "Towing": 1
+    "Towing": 1,
+    "EnableHelicopterExplosions": 1
 }

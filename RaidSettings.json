@@ -1,13 +1,13 @@
 {
-    "ExplosionTime": 30,
+    "ExplosionTime": 30.0,
     "ExplosiveDamageWhitelist": [
         "Expansion_C4_Explosion",
         "Expansion_RPG_Explosion"
     ],
     "EnableExplosiveWhitelist": 0,
-    "ExplosionDamageMultiplier": 50,
-    "ProjectileDamageMultiplier": 1,
+    "ExplosionDamageMultiplier": 50.0,
+    "ProjectileDamageMultiplier": 1.0,
     "CanRaidSafes": 1,
-    "SafeExplosionDamageMultiplier": 17,
-    "SafeProjectileDamageMultiplier": 1
+    "SafeExplosionDamageMultiplier": 17.0,
+    "SafeProjectileDamageMultiplier": 1.0
 }

@@ -69,17 +69,17 @@
         "ServerName": "SERVER NAME"
     },
     "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
-    "RuleCategorys": [
+    "RuleCategories": [
         {
             "RuleButtons": [
                 {
                     "RuleSection": {
                         "Rules": [
                             {
-                                "DetailContent": "Glichting into bases is a ban reason and will not be tolerated."
+                                "DetailContent": "Glitching into bases is a ban reason and will not be tolerated."
                             },
                             {
-                                "DetailContent": "Glichting under the map or clipping thrue objects will not be tolerated."
+                                "DetailContent": "Glitching under the map or clipping thrue objects will not be tolerated."
                             }
                         ],
                         "DetailLabel": "Glitching"
@@ -128,5 +128,7 @@
     ],
     "RuleParagraphColor": -13330213,
     "RuleButtonColor": -13330213,
-    "ShowTooltipOnRuleButton": 0
+    "ShowTooltipOnRuleButton": 0,
+    "ItemRequired": "",
+    "ItemRequiredLocation": 0
 }
