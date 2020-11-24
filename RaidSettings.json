@@ -9,5 +9,6 @@
     "ProjectileDamageMultiplier": 1.0,
     "CanRaidSafes": 1,
     "SafeExplosionDamageMultiplier": 17.0,
-    "SafeProjectileDamageMultiplier": 1.0
+    "SafeProjectileDamageMultiplier": 1.0,
+    "BaseBuildingRaidMode": 0
 }
