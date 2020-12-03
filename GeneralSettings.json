@@ -3,6 +3,7 @@
     "EnableGlobalChat": 1,
     "EnablePartyChat": 1,
     "EnableTransportChat": 1,
+    "DisableShootToUnlock": 0,
     "EnableGravecross": 0,
     "GravecrossDeleteBody": 1,
     "GravecrossTimeThreshold": 1200,
