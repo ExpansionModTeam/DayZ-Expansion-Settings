@@ -4,6 +4,7 @@
     "ShowAirdropTypeOnMarker": 1,
     "Height": 750.0,
     "Speed": 1500.0,
+    "Radius": 1.0,
     "ItemCount": 50,
     "Containers": [
         {
