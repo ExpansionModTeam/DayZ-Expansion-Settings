@@ -8,7 +8,7 @@
     "GravecrossDeleteBody": 1,
     "GravecrossTimeThreshold": 1200,
     "Mapping": {
-        "UseCustomMappingModule": 1,
+        "UseCustomMappingModule": 0,
         "Mapping": [
             "BerezhkiCave",
             "Berezino",
@@ -67,7 +67,7 @@
             "TisyNoCollision"
         ],
         "ObjectsToDelete": [],
-        "BuildingInteriors": 1,
+        "BuildingInteriors": 0,
         "Interiors": [
             "Land_Barn_Brick2",
             "Land_Barn_Metal_Big",
@@ -113,7 +113,7 @@
             "Land_Power_Station",
             "Land_Rail_Station_Big"
         ],
-        "BuildingIvys": 1
+        "BuildingIvys": 0
     },
     "EnableLamps": 3,
     "EnableGenerators": 0,
@@ -122,7 +122,6 @@
     "DisableMagicCrosshair": 1,
     "EnablePlayerTags": 1,
     "PlayerTagViewRange": 5,
-    "EnablePlayerList": 1,
     "EnableAutoRun": 1,
     "UnlimitedStamina": 0,
     "UseDeathScreen": 1,

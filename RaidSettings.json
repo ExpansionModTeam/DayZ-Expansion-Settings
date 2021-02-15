@@ -2,7 +2,12 @@
     "ExplosionTime": 30.0,
     "ExplosiveDamageWhitelist": [
         "Expansion_C4_Explosion",
-        "Expansion_RPG_Explosion"
+        "Expansion_RPG_Explosion",
+        "Expansion_LAW_Explosion",
+        "RGD5Grenade_Ammo",
+        "M67Grenade_Ammo",
+        "FlashGrenade_Ammo",
+        "LandFuelFeed_Ammo"
     ],
     "EnableExplosiveWhitelist": 0,
     "ExplosionDamageMultiplier": 50.0,

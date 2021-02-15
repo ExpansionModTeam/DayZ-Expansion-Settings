@@ -7,211 +7,55 @@
     "Missions": [
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_NWAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_NWAF.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_NWAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_NEAF.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_NWAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Berezino.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_NWAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Balota.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_NEAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Zelenogorsk.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_NEAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Myshkinko.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_NEAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Novodmitrovsk.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_NEAF.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Chernogorsk.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Berezino.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Elektrozavodsk.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Berezino.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Skalisty-Island.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Berezino.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Sosnovka.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Berezino.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Novy-Sobor.json"
         },
         {
             "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Balota.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Balota.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Balota.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Balota.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Zelenogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Zelenogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Zelenogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Zelenogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Myshkinko.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Myshkinko.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Myshkinko.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Myshkinko.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Novodmitrovsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Novodmitrovsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Novodmitrovsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Novodmitrovsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Chernogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Chernogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Chernogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Chernogorsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Elektrozavodsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Elektrozavodsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Elektrozavodsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Elektrozavodsk.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Skalisty-Island.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Skalisty-Island.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Skalisty-Island.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Skalisty-Island.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Sosnovka.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Sosnovka.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Sosnovka.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Sosnovka.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Novy-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Novy-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Novy-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Novy-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Stary-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Stary-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Stary-Sobor.json"
-        },
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Stary-Sobor.json"
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Stary-Sobor.json"
         }
     ]
 }

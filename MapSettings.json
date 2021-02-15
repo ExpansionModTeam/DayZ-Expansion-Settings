@@ -9,7 +9,7 @@
     "CanOpenMapWithKeyBinding": 1,
     "EnableHUDGPS": 1,
     "NeedGPSItemForKeyBinding": 1,
-    "NeedMapItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
     "EnableServerMarkers": 1,
     "ShowNameOnServerMarkers": 1,
     "ShowDistanceOnServerMarkers": 1,
