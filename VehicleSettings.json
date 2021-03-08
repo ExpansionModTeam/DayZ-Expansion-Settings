@@ -4,9 +4,21 @@
     "VehicleRequireAllDoors": 1,
     "VehicleLockedAllowInventoryAccess": 0,
     "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
+    "MasterKeyPairingMode": 2,
+    "MasterKeyUses": 2,
+    "CanPickLock": 0,
+    "PickLockTools": [
+        "Lockpick"
+    ],
+    "PickLockChancePercent": 40,
+    "PickLockTimeSeconds": 120,
+    "PickLockToolDamagePercent": 10,
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,
     "PlayerAttachment": 1,
     "Towing": 1,
-    "EnableHelicopterExplosions": 1
+    "EnableHelicopterExplosions": 1,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 1.0,
+    "VehicleSpeedDamageMultiplier": 0.0
 }

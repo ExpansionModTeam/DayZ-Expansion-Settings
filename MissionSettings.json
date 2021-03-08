@@ -1,5 +1,6 @@
 {
     "Enabled": 1,
+    "InitialMissionStartDelay": 300000,
     "TimeBetweenMissions": 3600000,
     "MinMissions": 0,
     "MaxMissions": 1,
