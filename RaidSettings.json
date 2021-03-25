@@ -15,5 +15,27 @@
     "CanRaidSafes": 1,
     "SafeExplosionDamageMultiplier": 17.0,
     "SafeProjectileDamageMultiplier": 1.0,
+    "SafeRaidTools": [
+        "ExpansionPropaneTorch"
+    ],
+    "SafeRaidToolTimeSeconds": 600,
+    "SafeRaidToolCycles": 5,
+    "SafeRaidToolDamagePercent": 100,
+    "CanRaidBarbedWire": 1,
+    "BarbedWireRaidTools": [
+        "ExpansionBoltCutters"
+    ],
+    "BarbedWireRaidToolTimeSeconds": 300,
+    "BarbedWireRaidToolCycles": 5,
+    "BarbedWireRaidToolDamagePercent": 100,
+    "CanRaidLocksOnWalls": 0,
+    "CanRaidLocksOnFences": 0,
+    "CanRaidLocksOnTents": 0,
+    "LockRaidTools": [],
+    "LockOnWallRaidToolTimeSeconds": 900,
+    "LockOnFenceRaidToolTimeSeconds": 900,
+    "LockOnTentRaidToolTimeSeconds": 600,
+    "LockRaidToolCycles": 5,
+    "LockRaidToolDamagePercent": 100,
     "BaseBuildingRaidMode": 0
 }
