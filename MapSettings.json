@@ -4,6 +4,7 @@
     "ShowPlayerPosition": 1,
     "ShowMapStats": 1,
     "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
     "CanCreateMarker": 1,
     "CanCreate3DMarker": 1,
     "CanOpenMapWithKeyBinding": 1,
