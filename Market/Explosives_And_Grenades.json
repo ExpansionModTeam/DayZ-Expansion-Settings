@@ -1,0 +1,116 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Explosives_And_Grenades",
+    "CategoryID": 20,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES",
+    "Items": [
+        {
+            "ClassName": "rgd5grenade",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 150,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m67grenade",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 150,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m18smokegrenade_red",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m18smokegrenade_green",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m18smokegrenade_yellow",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m18smokegrenade_purple",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m18smokegrenade_white",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "rdg2smokegrenade_black",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "rdg2smokegrenade_white",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flashgrenade",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 6,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_m18smokegrenade_teargas",
+            "MaxPriceThreshold": 26000,
+            "MinPriceThreshold": 25000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionsatchel",
+            "MaxPriceThreshold": 26000,
+            "MinPriceThreshold": 25000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Skirts_And_Dresses",
+    "CategoryID": 50,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SKIRTS & #STR_EXPANSION_MARKET_CATEGORY_DRESSES",
+    "Items": [
+        {
+            "ClassName": "skirt_blue",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "skirt_red",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "skirt_white",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "skirt_yellow",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_pink",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_pinkchecker",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_redchecker",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_bluechecker",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_bluewithdots",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_whitechecker",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_brownchecker",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "minidress_greenchecker",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "nursedress_blue",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "nursedress_white",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

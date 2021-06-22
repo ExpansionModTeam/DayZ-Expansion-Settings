@@ -1,0 +1,17 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Event_Trader_Indar",
+    "TraderName": "ExpansionTraderIndar",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EVENT",
+    "Items": [
+        "easteregg",
+        "crookednose",
+        "cauldron",
+        "witchhat",
+        "witchhood_black",
+        "witchhood_brown",
+        "witchhood_red",
+        "broom",
+        "broom_birch"
+    ]
+}

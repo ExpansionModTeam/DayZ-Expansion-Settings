@@ -1,0 +1,44 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Exchange",
+    "CategoryID": 0,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
+    "Items": [
+        {
+            "ClassName": "expansiongoldbar",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansiongoldnugget",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionsilverbar",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionsilvernugget",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

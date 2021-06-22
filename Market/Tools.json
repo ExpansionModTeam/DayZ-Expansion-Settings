@@ -1,0 +1,215 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Tools",
+    "CategoryID": 55,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TOOLS",
+    "Items": [
+        {
+            "ClassName": "screwdriver",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "wrench",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "pliers",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "whetstone",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "hammer",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "hacksaw",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "handsaw",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "canopener",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "hatchet",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "lockpick",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "lugwrench",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "pipewrench",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "fryingpan",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "crowbar",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "shovel",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "pickaxe",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sledgehammer",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "farminghoe",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sickle",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "woodaxe",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "firefighteraxe",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "farminghoe",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sickle",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

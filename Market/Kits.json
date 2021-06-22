@@ -1,0 +1,35 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Kits",
+    "CategoryID": 31,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_KITS",
+    "Items": [
+        {
+            "ClassName": "sewingkit",
+            "MaxPriceThreshold": 7,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "leathersewingkit",
+            "MaxPriceThreshold": 7,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "weaponcleaningkit",
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

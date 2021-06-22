@@ -1,0 +1,188 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Blouses_And_Suits",
+    "CategoryID": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BLOUSES & #STR_EXPANSION_MARKET_CATEGORY_SUITS",
+    "Items": [
+        {
+            "ClassName": "blouse_blue",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "blouse_green",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "blouse_violet",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "blouse_white",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_beige",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_black",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_blue",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_brown",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_darkgrey",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_khaki",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_lightgrey",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mansuit_white",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_beige",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_black",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_blue",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_brown",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_darkgrey",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_khaki",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_lightgrey",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "womansuit_white",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Bandanas",
+    "CategoryID": 6,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BANDANAS",
+    "Items": [
+        {
+            "ClassName": "bandana_redpattern",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "bandana_blackpattern",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "bandana_polkapattern",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "bandana_greenpattern",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "bandana_camopattern",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

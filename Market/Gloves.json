@@ -1,0 +1,134 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Gloves",
+    "CategoryID": 26,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GLOVES",
+    "Items": [
+        {
+            "ClassName": "surgicalgloves_blue",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "surgicalgloves_lightblue",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "surgicalgloves_green",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "surgicalgloves_white",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "workinggloves_black",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "workinggloves_beige",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "workinggloves_brown",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "workinggloves_yellow",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "tacticalgloves_black",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "tacticalgloves_beige",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "tacticalgloves_green",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "omnogloves_gray",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 6,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "omnogloves_brown",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 6,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "nbcglovesgray",
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

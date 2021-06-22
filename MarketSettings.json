@@ -1,0 +1,397 @@
+{
+    "MarketSystemEnabled": 1,
+    "LandSpawnPositions": [
+        [
+            11885.0,
+            140.0,
+            12465.0
+        ],
+        [
+            1150.0,
+            6.0,
+            2405.0
+        ]
+    ],
+    "AirSpawnPositions": [
+        [
+            12173.0,
+            140.0,
+            12640.0
+        ],
+        [
+            4977.0,
+            9.0,
+            2457.0
+        ]
+    ],
+    "WaterSpawnPositions": [
+        [
+            1759.0,
+            0.0,
+            1994.0
+        ],
+        [
+            14347.0,
+            0.0,
+            13235.0
+        ]
+    ],
+    "NetworkCategories": [
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
+            "CategoryID": 0
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_AMMO",
+            "CategoryID": 1
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_AMMOBOXES",
+            "CategoryID": 2
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_ARMBANDS",
+            "CategoryID": 3
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES",
+            "CategoryID": 4
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BACKPACKS",
+            "CategoryID": 5
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BANDANAS",
+            "CategoryID": 6
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BATTERIES",
+            "CategoryID": 7
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+            "CategoryID": 8
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BLOUSES & #STR_EXPANSION_MARKET_CATEGORY_SUITS",
+            "CategoryID": 9
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BOATS",
+            "CategoryID": 10
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES",
+            "CategoryID": 11
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS",
+            "CategoryID": 12
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_CAPS",
+            "CategoryID": 13
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_CARS",
+            "CategoryID": 14
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_COATS & #STR_EXPANSION_MARKET_CATEGORY_JACKETS",
+            "CategoryID": 15
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS",
+            "CategoryID": 16
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_DRINKS",
+            "CategoryID": 17
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_ELECTRONICS",
+            "CategoryID": 18
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SUBMACHINE_GUNS",
+            "CategoryID": 19
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES",
+            "CategoryID": 20
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_EYEWEAR",
+            "CategoryID": 21
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_FISH",
+            "CategoryID": 22
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_FISHING",
+            "CategoryID": 23
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_FOOD",
+            "CategoryID": 24
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+            "CategoryID": 25
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_GLOVES",
+            "CategoryID": 26
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_HANDGUARDS",
+            "CategoryID": 27
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS",
+            "CategoryID": 28
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_HELICOPTER",
+            "CategoryID": 29
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_HELMETS",
+            "CategoryID": 30
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_KITS",
+            "CategoryID": 31
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_KNIFES",
+            "CategoryID": 32
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS",
+            "CategoryID": 33
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_LIGHTS",
+            "CategoryID": 34
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_LIQUIDS",
+            "CategoryID": 35
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_LOCKS",
+            "CategoryID": 36
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_MAGAZINES",
+            "CategoryID": 37
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_MASKS",
+            "CategoryID": 38
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_MEAT",
+            "CategoryID": 39
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_MEDICALS",
+            "CategoryID": 40
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_MEELE_WEAPONS",
+            "CategoryID": 41
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_MUZZLES",
+            "CategoryID": 42
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_NAVIGATION",
+            "CategoryID": 43
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_OPTICS",
+            "CategoryID": 44
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_PANTS & #STR_EXPANSION_MARKET_CATEGORY_SHORTS",
+            "CategoryID": 45
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_PISTOLS",
+            "CategoryID": 46
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_RIFLES",
+            "CategoryID": 47
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SHIRTS & #STR_EXPANSION_MARKET_CATEGORY_TSHIRTS",
+            "CategoryID": 48
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SHOTGUNS",
+            "CategoryID": 49
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SKIRTS & #STR_EXPANSION_MARKET_CATEGORY_DRESSES",
+            "CategoryID": 50
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SNIPER_RIFLES",
+            "CategoryID": 51
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SUPPLIES",
+            "CategoryID": 52
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_SWEATERS & #STR_EXPANSION_MARKET_CATEGORY_HOODIES",
+            "CategoryID": 53
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_TENTS",
+            "CategoryID": 54
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_TOOLS",
+            "CategoryID": 55
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_VEGETABLES",
+            "CategoryID": 56
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_VEHICLE_PARTS",
+            "CategoryID": 57
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_VESTS",
+            "CategoryID": 58
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_CROSSBOWS",
+            "CategoryID": 59
+        },
+        {
+            "Name": "#STR_EXPANSION_MARKET_CATEGORY_EVENT",
+            "CategoryID": 60
+        }
+    ],
+    "MarketMenuColors": {
+        "ColorMarketIcon": -1933105327,
+        "ColorFilterOptionsButton": -1941973761,
+        "ColorFilterOptionsIcon": -1941973761,
+        "ColorSearchFilterButton": -1935614149,
+        "ColorCategoryButton": -1941973761,
+        "ColorCategoryCollapseIcon": -1935614149,
+        "ColorItemButton": -1941973761,
+        "ColorItemInfoIcon": -1935614149,
+        "ColorItemInfoHasContainerItems": -1941973764,
+        "ColorItemInfoHasAttachments": -1941973764,
+        "ColorItemInfoHasBullets": -1941973764,
+        "ColorItemInfoIsAttachment": -1941973764,
+        "ColorItemInfoIsEquiped": -1941973764,
+        "ColorItemInfoAttachments": -1941973764
+    },
+    "MarketAmmoBoxes": [
+        {
+            "Ammo": "Ammo_556x45",
+            "AmmoBox": "AmmoBox_556x45_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_556x45Tracer",
+            "AmmoBox": "AmmoBox_556x45Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_545x39",
+            "AmmoBox": "AmmoBox_545x39_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_545x39Tracer",
+            "AmmoBox": "AmmoBox_545x39Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x39",
+            "AmmoBox": "AmmoBox_762x39_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x39Tracer",
+            "AmmoBox": "AmmoBox_762x39Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_308Win",
+            "AmmoBox": "AmmoBox_308Win_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_308WinTracer",
+            "AmmoBox": "AmmoBox_308WinTracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x54",
+            "AmmoBox": "AmmoBox_762x54_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x54Tracer",
+            "AmmoBox": "AmmoBox_762x54Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_22",
+            "AmmoBox": "AmmoBox_22_50Rnd"
+        },
+        {
+            "Ammo": "Ammo_380",
+            "AmmoBox": "AmmoBox_380_35rnd"
+        },
+        {
+            "Ammo": "Ammo_9x19",
+            "AmmoBox": "AmmoBox_9x19_25rnd"
+        },
+        {
+            "Ammo": "Ammo_45ACP",
+            "AmmoBox": "AmmoBox_45ACP_25rnd"
+        },
+        {
+            "Ammo": "Ammo_357",
+            "AmmoBox": "AmmoBox_357_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_00buck",
+            "AmmoBox": "AmmoBox_00buck_10rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaSlug",
+            "AmmoBox": "AmmoBox_12gaSlug_10Rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaRubberSlug",
+            "AmmoBox": "AmmoBox_12gaRubberSlug_10Rnd"
+        },
+        {
+            "Ammo": "Ammo_9x39AP",
+            "AmmoBox": "AmmoBox_9x39AP_20rnd"
+        },
+        {
+            "Ammo": "Ammo_9x39",
+            "AmmoBox": "AmmoBox_9x39_20rnd"
+        },
+        {
+            "Ammo": "Expansion_Ammo_8mm",
+            "AmmoBox": "Expansion_AmmoBox_8mm_15rnd"
+        },
+        {
+            "Ammo": "Ammo_Expansion_46x30",
+            "AmmoBox": "AmmoBox_Expansion_46x30_25rnd"
+        },
+        {
+            "Ammo": "Ammo_Expansion_338",
+            "AmmoBox": "AmmoBox_Expansion_338_15rnd"
+        }
+    ],
+    "ATMSystemEnabled": 1,
+    "MaxDepositMoney": 100000
+}

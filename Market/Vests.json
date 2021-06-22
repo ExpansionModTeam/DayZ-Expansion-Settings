@@ -1,0 +1,143 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Vests",
+    "CategoryID": 58,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VESTS",
+    "Items": [
+        {
+            "ClassName": "platecarriervest",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "smershvest",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "pressvest_blue",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "pressvest_lightblue",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ukassvest_black",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ukassvest_camo",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ukassvest_khaki",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ukassvest_olive",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "policevest",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "platecarrierholster",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "chestholster",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "highcapacityvest_black",
+            "MaxPriceThreshold": 270,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "highcapacityvest_olive",
+            "MaxPriceThreshold": 270,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "huntingvest",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "reflexvest",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Pistols",
+    "CategoryID": 46,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_PISTOLS",
+    "Items": [
+        {
+            "ClassName": "mkii",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 9,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "makarovij70",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "cz75",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 14,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "fnx45",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "glock19",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "magnum",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "deagle",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "deagle_gold",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 45,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_m9",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_longhorn",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

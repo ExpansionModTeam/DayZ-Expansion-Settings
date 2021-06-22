@@ -1,0 +1,11 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Aircraft_Trader_Judy",
+    "TraderName": "ExpansionTraderJudy",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "Items": [
+        "expansionmerlin",
+        "expansionuh1h",
+        "expansionmh6"
+    ]
+}

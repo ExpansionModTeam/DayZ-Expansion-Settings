@@ -10,9 +10,9 @@
     "PickLockTools": [
         "Lockpick"
     ],
-    "PickLockChancePercent": 40,
+    "PickLockChancePercent": 40.0,
     "PickLockTimeSeconds": 120,
-    "PickLockToolDamagePercent": 10,
+    "PickLockToolDamagePercent": 10.0,
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,
     "PlayerAttachment": 1,

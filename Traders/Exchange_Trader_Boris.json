@@ -1,0 +1,12 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Exchange_Trader_Boris",
+    "TraderName": "ExpansionTraderBoris",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
+    "Items": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ]
+}

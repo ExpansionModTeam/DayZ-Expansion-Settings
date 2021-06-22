@@ -1,0 +1,32 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Boats",
+    "CategoryID": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOATS",
+    "Items": [
+        {
+            "ClassName": "expansionutilityboat",
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 15000,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "PurchaseType": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "glowplug"
+            ]
+        },
+        {
+            "ClassName": "expansionzodiacboat",
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 15000,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "PurchaseType": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "glowplug"
+            ]
+        }
+    ]
+}

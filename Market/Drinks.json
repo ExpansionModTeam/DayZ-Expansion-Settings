@@ -1,0 +1,89 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Drinks",
+    "CategoryID": 17,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_DRINKS",
+    "Items": [
+        {
+            "ClassName": "canteen",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "waterbottle",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "vodka",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sodacan_pipsi",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sodacan_cola",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sodacan_spite",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sodacan_kvass",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sodacan_fronta",
+            "MaxPriceThreshold": 22,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionmilkbottle",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Medicals_Trader_Keiko",
+    "TraderName": "ExpansionTraderKeiko",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+    "Items": [
+        "antipestsspray",
+        "bandagedressing",
+        "bloodtestkit",
+        "thermometer",
+        "disinfectantspray",
+        "startkitiv",
+        "salinebag",
+        "bloodbagempty",
+        "firstaidkit",
+        "charcoaltablets",
+        "disinfectantalcohol",
+        "vitaminbottle",
+        "tetracyclineantibiotics",
+        "painkillertablets",
+        "epinephrine",
+        "morphine",
+        "iodinetincture"
+    ]
+}

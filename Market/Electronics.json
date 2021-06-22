@@ -1,0 +1,80 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Electronics",
+    "CategoryID": 18,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ELECTRONICS",
+    "Items": [
+        {
+            "ClassName": "personalradio",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "megaphone",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "electronicrepairkit",
+            "MaxPriceThreshold": 370,
+            "MinPriceThreshold": 350,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "cablereel",
+            "MaxPriceThreshold": 420,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "batterycharger",
+            "MaxPriceThreshold": 420,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseradio",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "rangefinder",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "nvgoggles",
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 5000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Launchers",
+    "CategoryID": 33,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS",
+    "Items": [
+        {
+            "ClassName": "flaregun",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionlaw",
+            "MaxPriceThreshold": 2700,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionrpg7",
+            "MaxPriceThreshold": 2700,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_m79",
+            "MaxPriceThreshold": 2700,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

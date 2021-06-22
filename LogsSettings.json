@@ -1,0 +1,15 @@
+{
+    "VehicleCarKey": 1,
+    "VehicleTowing": 1,
+    "VehicleLockPicking": 1,
+    "BaseBuildingRaiding": 1,
+    "CodeLockRaiding": 1,
+    "Territory": 1,
+    "Killfeed": 1,
+    "Safezone": 1,
+    "Party": 1,
+    "Chat": 1,
+    "AdminTools": 1,
+    "SpawnSelection": 1,
+    "MissionAirdrop": 1
+}

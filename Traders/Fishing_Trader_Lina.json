@@ -1,0 +1,14 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Fishing_Trader_Lina",
+    "TraderName": "ExpansionTraderLina",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "Items": [
+        "hook",
+        "bonehook",
+        "fishingrod",
+        "carp",
+        "sardines",
+        "mackerel"
+    ]
+}

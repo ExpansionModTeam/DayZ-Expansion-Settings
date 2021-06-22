@@ -1,0 +1,53 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Batteries",
+    "CategoryID": 7,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BATTERIES",
+    "Items": [
+        {
+            "ClassName": "battery9v",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "carbattery",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "truckbattery",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionhelicopterbattery",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansionaircraftbattery",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

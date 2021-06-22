@@ -1,0 +1,98 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Rifles",
+    "CategoryID": 47,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_RIFLES",
+    "Items": [
+        {
+            "ClassName": "izh18",
+            "MaxPriceThreshold": 37,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mosin9130",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "cz527",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "winchester70",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "b95",
+            "MaxPriceThreshold": 62,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ruger1022",
+            "MaxPriceThreshold": 62,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "repeater",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 52,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_kar98",
+            "MaxPriceThreshold": 62,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_m14",
+            "MaxPriceThreshold": 62,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_m1a",
+            "MaxPriceThreshold": 62,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Liquids",
+    "CategoryID": 35,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_LIQUIDS",
+    "Items": [
+        {
+            "ClassName": "engineoil",
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "canistergasoline",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

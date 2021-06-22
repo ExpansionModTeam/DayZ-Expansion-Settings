@@ -1,0 +1,21 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Special_Trader_Gabi",
+    "TraderName": "ExpansionTraderGabi",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "Items": [
+        "m18smokegrenade_red",
+        "m18smokegrenade_green",
+        "m18smokegrenade_yellow",
+        "m18smokegrenade_purple",
+        "m18smokegrenade_white",
+        "rdg2smokegrenade_black",
+        "rdg2smokegrenade_white",
+        "flashgrenade",
+        "expansionsatchel",
+        "expansion_m18smokegrenade_teargas",
+        "nvgoggles",
+        "nvgheadstrap",
+        "battery9v"
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Containers",
+    "CategoryID": 16,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS",
+    "Items": [
+        {
+            "ClassName": "smallprotectorcase",
+            "MaxPriceThreshold": 9,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ammobox",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrelholes_blue",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrelholes_green",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrelholes_red",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrelholes_yellow",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrel_blue",
+            "MaxPriceThreshold": 1650,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrel_green",
+            "MaxPriceThreshold": 1650,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrel_red",
+            "MaxPriceThreshold": 1650,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "barrel_yellow",
+            "MaxPriceThreshold": 1650,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "seachest",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

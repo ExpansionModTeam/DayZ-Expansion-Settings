@@ -1,0 +1,98 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Tents",
+    "CategoryID": 54,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TENTS",
+    "Items": [
+        {
+            "ClassName": "expansioncamotentkit",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mediumtent",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mediumtent_green",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mediumtent_orange",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "cartent",
+            "MaxPriceThreshold": 520,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "largetent",
+            "MaxPriceThreshold": 720,
+            "MinPriceThreshold": 700,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "partytent",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "partytent_blue",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "partytent_brown",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "partytent_lunapark",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

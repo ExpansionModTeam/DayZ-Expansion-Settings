@@ -1,0 +1,53 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Fish",
+    "CategoryID": 22,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FISH",
+    "Items": [
+        {
+            "ClassName": "carpfilletmeat",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mackerelfilletmeat",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "carp",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "sardines",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mackerel",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

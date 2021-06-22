@@ -1,0 +1,12 @@
+{
+    "m_Version": 3,
+    "m_FileName": "Aircraft_Trader_Irena",
+    "TraderName": "ExpansionTraderIrena",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "Items": [
+        "expansionmerlin",
+        "expansionuh1h",
+        "expansionmh6",
+        "expansiongyrocopter"
+    ]
+}

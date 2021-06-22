@@ -1,0 +1,17 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Crossbows",
+    "CategoryID": 59,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CROSSBOWS",
+    "Items": [
+        {
+            "ClassName": "expansion_crossbow",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

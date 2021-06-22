@@ -1,0 +1,102 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Assault_Rifles",
+    "CategoryID": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES",
+    "Items": [
+        {
+            "ClassName": "ak101",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ak74",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "akm",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "aks74u",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "fal",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "m4a1",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [
+                "expansionexps3holooptic",
+                "mag_stanag_30rnd",
+                "m4_oebttstck"
+            ]
+        },
+        {
+            "ClassName": "m16a2",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "asval",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_m16",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_g36",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

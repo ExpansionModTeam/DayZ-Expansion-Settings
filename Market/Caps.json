@@ -1,0 +1,233 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Caps",
+    "CategoryID": 13,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CAPS",
+    "Items": [
+        {
+            "ClassName": "baseballcap_blue",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_beige",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_black",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_olive",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_pink",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_red",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_camo",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_cmmg_black",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "baseballcap_cmmg_pink",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "radarcap_black",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "radarcap_blue",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "radarcap_brown",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "radarcap_green",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "radarcap_red",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_black",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_blue",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_red",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_brown",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_grey",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_browncheck",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_greycheck",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "flatcap_blackcheck",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "policecap",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "pilotkacap",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "prisonercap",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

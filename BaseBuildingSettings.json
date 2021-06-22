@@ -11,6 +11,9 @@
         "LandMineTrap",
         "BearTrap"
     ],
+    "Zones": [],
+    "ZonesAreNoBuildZones": 1,
+    "BuildZoneRequiredCustomMessage": "",
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 1,
     "DestroyFlagOnDismantle": 1,

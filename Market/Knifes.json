@@ -1,0 +1,89 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Knifes",
+    "CategoryID": 32,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_KNIFES",
+    "Items": [
+        {
+            "ClassName": "kitchenknife",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "steakknife",
+            "MaxPriceThreshold": 11,
+            "MinPriceThreshold": 9,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "combatknife",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 11,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "huntingknife",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 11,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "machete",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "crudemachete",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "orientalmachete",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "kukriknife",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "fangeknife",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

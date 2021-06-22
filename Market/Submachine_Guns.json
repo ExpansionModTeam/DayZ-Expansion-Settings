@@ -1,0 +1,80 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Submachine_Guns",
+    "CategoryID": 19,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SUBMACHINE_GUNS",
+    "Items": [
+        {
+            "ClassName": "cz61",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ump45",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "mp5k",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_kedr",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_mpx",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_mp5",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_mp7",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_vityazsn",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

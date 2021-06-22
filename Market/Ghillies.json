@@ -1,0 +1,116 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Ghillies",
+    "CategoryID": 25,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+    "Items": [
+        {
+            "ClassName": "ghilliehood_tan",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliehood_woodland",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliehood_mossy",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliebushrag_tan",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 5000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliebushrag_woodland",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 5000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliebushrag_mossy",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 5000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghillietop_tan",
+            "MaxPriceThreshold": 7200,
+            "MinPriceThreshold": 7000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghillietop_woodland",
+            "MaxPriceThreshold": 7200,
+            "MinPriceThreshold": 7000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghillietop_mossy",
+            "MaxPriceThreshold": 7200,
+            "MinPriceThreshold": 7000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliesuit_tan",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliesuit_woodland",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "ghilliesuit_mossy",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "m_Version": 4,
+    "m_FileName": "Sniper_Rifles",
+    "CategoryID": 51,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SNIPER_RIFLES",
+    "Items": [
+        {
+            "ClassName": "vss",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 160,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "svd",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "scout_chernarus",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        },
+        {
+            "ClassName": "expansion_awm",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": []
+        }
+    ]
+}
