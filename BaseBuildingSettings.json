@@ -1,10 +1,25 @@
 {
+    "m_Version": 2,
     "CanBuildAnywhere": 1,
     "AllowBuildingWithoutATerritory": 1,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
         "Fireplace",
-        "TerritoryFlagKit"
+        "TerritoryFlagKit",
+        "TerritoryFlag",
+        "MediumTent",
+        "LargeTent",
+        "CarTent",
+        "PartyTent",
+        "ExpansionCamoTentKit",
+        "ExpansionCamoBoxKit",
+        "ShelterKit",
+        "BearTrap",
+        "ExpansionSafeLarge",
+        "ExpansionSafeMedium",
+        "ExpansionSafeSmall",
+        "SeaChest",
+        "GardenPlot"
     ],
     "DeployableInsideAEnemyTerritory": [
         "ExpansionSatchel",
@@ -28,5 +43,8 @@
     "SimpleTerritory": 1,
     "AutomaticFlagOnCreation": 1,
     "EnableFlagMenu": 1,
-    "GetTerritoryFlagKitAfterBuild": 0
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [],
+    "ZonesAreNoBuildZones": 1
 }

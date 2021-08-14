@@ -1,4 +1,5 @@
 {
+    "m_Version": 0,
     "ExplosionTime": 30.0,
     "ExplosiveDamageWhitelist": [
         "Expansion_C4_Explosion",
@@ -20,14 +21,14 @@
     ],
     "SafeRaidToolTimeSeconds": 600,
     "SafeRaidToolCycles": 5,
-    "SafeRaidToolDamagePercent": 100,
+    "SafeRaidToolDamagePercent": 100.0,
     "CanRaidBarbedWire": 1,
     "BarbedWireRaidTools": [
         "ExpansionBoltCutters"
     ],
     "BarbedWireRaidToolTimeSeconds": 300,
     "BarbedWireRaidToolCycles": 5,
-    "BarbedWireRaidToolDamagePercent": 100,
+    "BarbedWireRaidToolDamagePercent": 100.0,
     "CanRaidLocksOnWalls": 0,
     "CanRaidLocksOnFences": 0,
     "CanRaidLocksOnTents": 0,
@@ -36,6 +37,6 @@
     "LockOnFenceRaidToolTimeSeconds": 900,
     "LockOnTentRaidToolTimeSeconds": 600,
     "LockRaidToolCycles": 5,
-    "LockRaidToolDamagePercent": 100,
+    "LockRaidToolDamagePercent": 100.0,
     "BaseBuildingRaidMode": 0
 }

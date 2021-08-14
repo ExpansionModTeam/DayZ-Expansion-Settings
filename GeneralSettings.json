@@ -1,4 +1,5 @@
 {
+    "m_Version": 0,
     "PlayerLocationNotifier": 1,
     "EnableGlobalChat": 1,
     "EnablePartyChat": 1,
@@ -66,7 +67,6 @@
             "SvetRoadForestNoCollision",
             "TisyNoCollision"
         ],
-        "ObjectsToDelete": [],
         "BuildingInteriors": 0,
         "Interiors": [
             "Land_Barn_Brick2",
@@ -126,5 +126,12 @@
     "UnlimitedStamina": 0,
     "UseDeathScreen": 1,
     "UseDeathScreenStatistics": 1,
-    "UseNewsFeedInGameMenu": 1
+    "UseNewsFeedInGameMenu": 1,
+    "SystemChatColor": -4569670,
+    "AdminChatColor": -4179669,
+    "GlobalChatColor": -10959881,
+    "DirectChatColor": -1,
+    "TransportChatColor": -12791,
+    "PartyChatColor": -16057734,
+    "TransmitterChatColor": -393399
 }

@@ -1,4 +1,5 @@
 {
+    "m_Version": 2,
     "VehicleSync": 1,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
@@ -10,9 +11,9 @@
     "PickLockTools": [
         "Lockpick"
     ],
-    "PickLockChancePercent": 40,
+    "PickLockChancePercent": 40.0,
     "PickLockTimeSeconds": 120,
-    "PickLockToolDamagePercent": 10,
+    "PickLockToolDamagePercent": 10.0,
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,
     "PlayerAttachment": 1,
@@ -20,5 +21,11 @@
     "EnableHelicopterExplosions": 1,
     "DisableVehicleDamage": 0,
     "VehicleCrewDamageMultiplier": 1.0,
-    "VehicleSpeedDamageMultiplier": 0.0
+    "VehicleSpeedDamageMultiplier": 0.0,
+    "CanChangeLock": 0,
+    "ChangeLockTools": [
+        "Screwdriver"
+    ],
+    "ChangeLockTimeSeconds": 120,
+    "ChangeLockToolDamagePercent": 10.0
 }

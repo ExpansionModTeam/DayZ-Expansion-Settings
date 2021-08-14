@@ -1,4 +1,5 @@
 {
+    "m_Version": 1,
     "Enabled": 1,
     "InitialMissionStartDelay": 300000,
     "TimeBetweenMissions": 3600000,

@@ -1,134 +1,368 @@
 {
-    "EnableBook": 1,
+    "m_Version": 2,
     "EnableStatusTab": 1,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 1,
     "EnableServerRulesTab": 1,
     "EnableTerritoryTab": 1,
-    "ShowServerSettings": 1,
-    "ServerInfo": {
-        "ServerButtons": [
-            {
-                "IconPath": "set:expansion_iconset image:icon_group",
-                "URL": "https://exp.thurston.pw",
-                "Tooltip": "Feedback",
-                "Color": -1
-            },
-            {
-                "IconPath": "set:expansion_iconset image:icon_discord",
-                "URL": "https://www.google.com",
-                "Tooltip": "Discord",
-                "Color": -1
-            },
-            {
-                "IconPath": "set:expansion_iconset image:icon_home",
-                "URL": "https://www.google.com",
-                "Tooltip": "Homepage",
-                "Color": -1
-            },
-            {
-                "IconPath": "set:expansion_iconset image:icon_forums",
-                "URL": "https://www.google.com",
-                "Tooltip": "Forums",
-                "Color": -1
-            },
-            {
-                "IconPath": "set:expansion_iconset image:icon_patreon",
-                "URL": "https://www.patreon.com/dayzexpansion",
-                "Tooltip": "Patreon",
-                "Color": -1
-            }
-        ],
-        "ServerSections": [
-            {
-                "HasHeading": 1,
-                "HeadText": "PLACEHOLDER",
-                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>"
-            },
-            {
-                "HasHeading": 1,
-                "HeadText": "PLACEHOLDER 2",
-                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>"
-            },
-            {
-                "HasHeading": 1,
-                "HeadText": "PLACEHOLDER 3",
-                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>"
-            },
-            {
-                "HasHeading": 1,
-                "HeadText": "PLACEHOLDER 4",
-                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>"
-            },
-            {
-                "HasHeading": 1,
-                "HeadText": "PLACEHOLDER 5",
-                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>"
-            }
-        ],
-        "ServerName": "SERVER NAME"
-    },
-    "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
     "RuleCategories": [
         {
-            "RuleButtons": [
+            "CategoryName": "General",
+            "Rules": [
                 {
-                    "RuleSection": {
-                        "Rules": [
-                            {
-                                "DetailContent": "Glitching into bases is a ban reason and will not be tolerated."
-                            },
-                            {
-                                "DetailContent": "Glitching under the map or clipping thrue objects will not be tolerated."
-                            }
-                        ],
-                        "DetailLabel": "Glitching"
-                    },
-                    "DetailLabel": "Glitching",
-                    "DetailContent": "Rule section 1 description",
-                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\tent_64x64.edds"
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
                 },
                 {
-                    "RuleSection": {
-                        "Rules": [
-                            {
-                                "DetailContent": "Any kind of cheats or third-party programms are not allowed and will be treated accordingly."
-                            }
-                        ],
-                        "DetailLabel": "Cheating"
-                    },
-                    "DetailLabel": "Cheating",
-                    "DetailContent": "Rule section 2 description",
-                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\skull_1_64x64.edds"
-                }
-            ],
-            "DisplayName": "Hacking and Cheating"
-        },
-        {
-            "RuleButtons": [
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+                },
                 {
-                    "RuleSection": {
-                        "Rules": [
-                            {
-                                "DetailContent": "Insults of all kinds will not be tolerated unless they are part of an roleplay."
-                            },
-                            {
-                                "DetailContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et mi non purus varius maximus. Pellentesque interdum, justo id luctus euismod, urna sapien convallis justo, non feugiat sapien orci a leo. Mauris lobortis sapien in erat interdum pretium. Integer ultrices odio lobortis lectus gravida, ac congue velit consequat. Nullam tempor lectus mollis, vulputate nibh sed, interdum ante. Donec finibus turpis purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam non diam id odio varius dignissim. Nulla nec est ut libero imperdiet suscipit. Maecenas et arcu non purus sollicitudin venenatis."
-                            }
-                        ],
-                        "DetailLabel": "Insults"
-                    },
-                    "DetailLabel": "Insults",
-                    "DetailContent": "Rule section 1 description",
-                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\info_64x64.edds"
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
                 }
-            ],
-            "DisplayName": "Etiquette"
+            ]
         }
     ],
-    "RuleParagraphColor": -13330213,
-    "RuleButtonColor": -13330213,
-    "ShowTooltipOnRuleButton": 0,
-    "ItemRequired": "",
-    "ItemRequiredLocation": 0
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://www.google.com/",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Feedback",
+            "URL": "https://exp.thurston.pw/",
+            "IconName": "Forums",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://www.google.com/",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Patreon",
+            "URL": "https://www.patreon.com/dayzexpansion",
+            "IconName": "Patreon",
+            "IconColor": -432044
+        },
+        {
+            "Name": "Steam",
+            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
+            "IconName": "Steam",
+            "IconColor": -14006434
+        },
+        {
+            "Name": "Reddit",
+            "URL": "https://www.reddit.com/r/ExpansionProject/",
+            "IconName": "Reddit",
+            "IconColor": -12386303
+        },
+        {
+            "Name": "GitHub",
+            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
+            "IconName": "GitHub",
+            "IconColor": -16777216
+        },
+        {
+            "Name": "YouTube",
+            "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        },
+        {
+            "Name": "Twitter",
+            "URL": "https://twitter.com/DayZExpansion",
+            "IconName": "Twitter",
+            "IconColor": -14835214
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "General Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                },
+                {
+                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                },
+                {
+                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Mod Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                },
+                {
+                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                },
+                {
+                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accesoires",
+            "Results": [
+                "armband_",
+                "armband_white"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
 }
