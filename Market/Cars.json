@@ -1,0 +1,56 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CARS",
+    "Items": [
+        {
+            "ClassName": "offroadhatchback",
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 14000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 1,
+            "SpawnAttachments": [
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "hatchbackhood",
+                "hatchbacktrunk",
+                "hatchbackdoors_driver",
+                "hatchbackdoors_codriver",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "hatchback_02",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 16000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
+            "PurchaseType": 1,
+            "SpawnAttachments": [
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_door_1_1",
+                "hatchback_02_door_2_1",
+                "hatchback_02_door_1_2",
+                "hatchback_02_door_2_2",
+                "hatchback_02_hood",
+                "hatchback_02_trunk",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        }
+    ]
+}

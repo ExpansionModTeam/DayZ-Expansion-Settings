@@ -1,0 +1,20 @@
+{
+    "m_Version": 7,
+    "TraderName": "Weapons",
+    "DisplayName": "I am the weapon trader",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "apple",
+        "greenbellpepper",
+        "zucchini",
+        "tomato"
+    ],
+    "Categories": [],
+    "Items": {
+        "m4a1": 1,
+        "m4_carryhandleoptic": 3,
+        "m4_oebttstck": 3,
+        "m4_plastichndgrd": 3,
+        "mag_stanag_30rnd": 3
+    }
+}

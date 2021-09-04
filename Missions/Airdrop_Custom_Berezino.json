@@ -1,0 +1,45 @@
+{
+    "Enabled": 1,
+    "Weight": 294.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Custom_Berezino",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "ExpansionAirdropContainer",
+    "DropLocation": {
+        "x": 11464.0,
+        "z": 8908.0,
+        "Name": "Berezino",
+        "Radius": 100.0
+    },
+    "Loot": [
+        {
+            "Name": "AKS74U",
+            "Attachments": [
+                "AKS74U_Bttstck"
+            ],
+            "Chance": 0.07999999821186066,
+            "Variants": [],
+            "Max": -1
+        },
+        {
+            "Name": "Bear_Pink",
+            "Attachments": [],
+            "Chance": 0.70,
+            "Variants": [],
+            "Max": 2
+        }
+    ],
+    "Infected": [
+        "ZmbM_HermitSkinny_Beige",
+        "ZmbM_HermitSkinny_Black",
+        "ZmbM_HermitSkinny_Green",
+        "ZmbM_HermitSkinny_Red"
+    ],
+    "ItemCount": 30,
+    "InfectedCount": 25
+}

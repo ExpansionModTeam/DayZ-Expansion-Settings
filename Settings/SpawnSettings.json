@@ -1,0 +1,100 @@
+{
+    "m_Version": 2,
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_RedBlackStripes"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CanvasPants_Blue",
+            "CanvasPantsMidi_Violet"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Green",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnSelectionScreenMenuID": 1004,
+    "SpawnOnTerritory": 0,
+    "SpawnLocations": [
+        {
+            "Name": "My First Location with random spawns",
+            "Positions": [
+                [
+                    14273.2001953125,
+                    2.4000000953674318,
+                    13053.2998046875
+                ],
+                [
+                    14407.2998046875,
+                    2.0,
+                    13253.0
+                ]
+            ]
+        },
+        {
+            "Name": "My Location with a static spawn",
+            "Positions": [
+                [
+                    12915.7001953125,
+                    3.4000000953674318,
+                    9278.2001953125
+                ]
+            ]
+        }
+    ],
+    "StartingGear": {
+        "EnableStartingGear": 1,
+        "UseUpperGear": 1,
+        "UsePantsGear": 0,
+        "UseBackpackGear": 1,
+        "UseVestGear": 0,
+        "UsePrimaryWeapon": 0,
+        "UseSecondaryWeapon": 0,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": 1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [
+            {
+                "ClassName": "FNX45",
+                "Quantity": 1,
+                "Attachments": [
+                    "Mag_FNX45_15Rnd",
+                    "PistolSuppressor"
+                ]
+            }
+        ],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "SpawnHealthValue": 100,
+    "SpawnEnergyValue": 500,
+    "SpawnWaterValue": 500
+}

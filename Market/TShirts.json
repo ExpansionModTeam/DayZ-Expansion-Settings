@@ -1,0 +1,61 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TSHIRTS",
+    "Items": [
+        {
+            "ClassName": "tshirt_blue",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tshirt_beige",
+                "tshirt_grey",
+                "tshirt_black",
+                "tshirt_green"
+            ]
+        },
+        {
+            "ClassName": "tshirt_beige",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tshirt_grey",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tshirt_black",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tshirt_green",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

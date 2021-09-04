@@ -1,0 +1,147 @@
+{
+    "m_Version": 7,
+    "MarketSystemEnabled": 1,
+    "NetworkCategories": [],
+    "MarketAmmoBoxes": [
+        {
+            "Ammo": "Ammo_556x45",
+            "AmmoBox": "AmmoBox_556x45_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_556x45Tracer",
+            "AmmoBox": "AmmoBox_556x45Tracer_20Rnd"
+        }
+    ],
+    "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
+    "ATMSystemEnabled": 1,
+    "MaxDepositMoney": 100000,
+    "DefaultDepositMoney": 10000,
+    "ATMPlayerTransferEnabled": 1,
+    "ATMPartyLockerEnabled": 1,
+    "MaxPartyDepositMoney": 100000,
+    "MarketVIPs": [],
+    "UseWholeMapForATMPlayerList": 0,
+    "SellPricePercent": 75.0,
+    "NetworkBatchSize": 100,
+    "MaxVehicleDistanceToTrader": 120.0,
+    "MaxLargeVehicleDistanceToTrader": 744.0,
+    "LargeVehicles": [
+        "expansionlhd"
+    ],
+    "LandSpawnPositions": [
+        {
+            "Position": [
+                11903.400390625,
+                140.0,
+                12455.099609375
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                11898.400390625,
+                140.0,
+                12481.599609375
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "AirSpawnPositions": [
+        {
+            "Position": [
+                12178.900390625,
+                140.0,
+                12638.400390625
+            ],
+            "Orientation": [
+                -157.1999969482422,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                12126.7001953125,
+                140.0,
+                12664.7001953125
+            ],
+            "Orientation": [
+                -66.5999984741211,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "WaterSpawnPositions": [
+        {
+            "Position": [
+                1759.0,
+                0.0,
+                1994.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                14347.7998046875,
+                0.0,
+                13235.7998046875
+            ],
+            "Orientation": [
+                -147.5,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "MarketMenuColors": {
+        "BaseColorVignette": "000000C8",
+        "BaseColorHeaders": "13171BFF",
+        "BaseColorLabels": "27272DFF",
+        "BaseColorText": "FBFCFEFF",
+        "BaseColorCheckboxes": "FBFCFEFF",
+        "BaseColorInfoSectionBackground": "2225268C",
+        "BaseColorTooltipsHeaders": "000000F0",
+        "BaseColorTooltipsBackground": "000000DC",
+        "ColorDecreaseQuantityButton": "DD262614",
+        "ColorDecreaseQuantityIcon": "DD262628",
+        "ColorSetQuantityButton": "C7265114",
+        "ColorIncreaseQuantityButton": "A0CC7114",
+        "ColorIncreaseQuantityIcon": "A0CC7128",
+        "ColorSellPanel": "27272DFF",
+        "ColorSellButton": "DD262628",
+        "ColorBuyPanel": "27272DFF",
+        "ColorBuyButton": "A0CC7128",
+        "ColorMarketIcon": "E241428C",
+        "ColorFilterOptionsButton": "C726518C",
+        "ColorFilterOptionsIcon": "C726518C",
+        "ColorSearchFilterButton": "C726518C",
+        "ColorCategoryButton": "C726518C",
+        "ColorCategoryCollapseIcon": "C726518C",
+        "ColorCurrencyDenominationText": "FFB418FF",
+        "ColorItemButton": "C726518C",
+        "ColorItemInfoIcon": "FFB418FF",
+        "ColorItemInfoTitle": "FFB418FF",
+        "ColorItemInfoHasContainerItems": "FFB418FF",
+        "ColorItemInfoHasAttachments": "FFB418FF",
+        "ColorItemInfoHasBullets": "FFB418FF",
+        "ColorItemInfoIsAttachment": "FFB418FF",
+        "ColorItemInfoIsEquipped": "FFB418FF",
+        "ColorItemInfoAttachments": "FFB418FF",
+        "ColorToggleCategoriesText": "C726518C",
+        "ColorCategoryCorners": "FBFCFEFF",
+        "ColorCategoryBackground": "222526FF"
+    }
+}

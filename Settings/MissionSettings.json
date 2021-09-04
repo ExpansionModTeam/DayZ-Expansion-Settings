@@ -1,0 +1,19 @@
+{
+    "m_Version": 1,
+    "Enabled": 1,
+    "InitialMissionStartDelay": 300000,
+    "TimeBetweenMissions": 3600000,
+    "MinMissions": 0,
+    "MaxMissions": 1,
+    "MinPlayersToStartMissions": 0,
+    "Missions": [
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Balota.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Custom_Berezino.json"
+        }
+    ]
+}

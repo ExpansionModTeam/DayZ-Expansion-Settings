@@ -1,0 +1,51 @@
+{
+    "m_Version": 2,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "MyUniqueID_Example_01",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "My Trader 3D Marker At Krasnovtav",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                11882.0,
+                143.0,
+                12466.0
+            ]
+        },
+        {
+            "m_UID": "MyUniqueID_Example_02",
+            "m_Visibility": 6,
+            "m_Is3D": 0,
+            "m_Text": "My Boat 2D Marker",
+            "m_IconName": "Boat",
+            "m_Color": -13710223,
+            "m_Position": [
+                1756.0,
+                0.0,
+                2027.0
+            ]
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1
+}

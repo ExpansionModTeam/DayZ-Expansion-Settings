@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 5,
     "VehicleSync": 1,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
@@ -21,11 +21,29 @@
     "EnableHelicopterExplosions": 1,
     "DisableVehicleDamage": 0,
     "VehicleCrewDamageMultiplier": 1.0,
-    "VehicleSpeedDamageMultiplier": 0.0,
+    "VehicleSpeedDamageMultiplier": 1.0,
     "CanChangeLock": 0,
     "ChangeLockTools": [
         "Screwdriver"
     ],
     "ChangeLockTimeSeconds": 120,
-    "ChangeLockToolDamagePercent": 10.0
+    "ChangeLockToolDamagePercent": 10.0,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "VehiclesConfig": [
+        {
+            "ClassName": "OffroadHatchback",
+            "CanPlayerAttach": 0,
+            "Weight": 1350.0
+        },
+        {
+            "ClassName": "Hatchback_02",
+            "CanPlayerAttach": 0,
+            "Weight": 1245.0
+        },
+        {
+            "ClassName": "ExpansionMerlin",
+            "CanPlayerAttach": 1,
+            "Weight": 10500.0
+        }
+    ]
 }

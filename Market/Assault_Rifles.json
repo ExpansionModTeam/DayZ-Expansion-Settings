@@ -1,0 +1,21 @@
+{
+    "m_Version": 4,
+    "DisplayName": "My Category Title !",
+    "Items": [
+        {
+            "ClassName": "m4a1",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 30,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [
+                "m4_carryhandleoptic",
+                "m4_oebttstck",
+                "m4_plastichndgrd",
+                "mag_stanag_30rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}

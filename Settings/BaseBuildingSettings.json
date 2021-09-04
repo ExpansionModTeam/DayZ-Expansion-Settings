@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 3,
     "CanBuildAnywhere": 1,
     "AllowBuildingWithoutATerritory": 1,
     "DeployableOutsideATerritory": [
@@ -29,11 +29,9 @@
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 1,
     "DestroyFlagOnDismantle": 1,
-    "DismantleFlagRequireTools": 1,
     "DismantleOutsideTerritory": 0,
     "DismantleInsideTerritory": 0,
     "DismantleAnywhere": 0,
-    "CanAttachCodelock": 0,
     "CodelockActionsAnywhere": 0,
     "CodeLockLength": 4,
     "DoDamageWhenEnterWrongCodeLock": 1,
@@ -42,9 +40,36 @@
     "CanCraftTerritoryFlagKit": 1,
     "SimpleTerritory": 1,
     "AutomaticFlagOnCreation": 1,
-    "EnableFlagMenu": 1,
     "GetTerritoryFlagKitAfterBuild": 0,
+    "CodelockAttachMode": 1,
+    "DismantleFlagMode": 1,
+    "FlagMenuMode": 1,
     "BuildZoneRequiredCustomMessage": "",
-    "Zones": [],
+    "Zones": [
+        {
+            "Name": "Krasnostav Trader Camp",
+            "Center": [
+                11882.0,
+                143.0,
+                12466.0
+            ],
+            "Radius": 2000.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Green Mountain Trader Camp",
+            "Center": [
+                3728.27001953125,
+                403.0,
+                6003.60009765625
+            ],
+            "Radius": 2000.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        }
+    ],
     "ZonesAreNoBuildZones": 1
 }

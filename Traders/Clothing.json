@@ -1,0 +1,20 @@
+{
+    "m_Version": 7,
+    "TraderName": "Clothing",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [],
+    "Items": {
+        "tshirt_blue": 1,
+        "tshirt_green": 1,
+        "tshirt_black": 1,
+        "tshirt_grey": 1,
+        "tshirt_beige": 1
+    }
+}

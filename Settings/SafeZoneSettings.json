@@ -1,7 +1,6 @@
 {
-    "m_Version": 0,
+    "m_Version": 4,
     "Enabled": 1,
-    "EnableVehicleinvincibleInsideSafeZone": 1,
     "FrameRateCheckSafeZoneInMs": 5000,
     "CircleZones": [
         {
@@ -52,13 +51,11 @@
                     140.0,
                     12453.7998046875
                 ]
-            ],
-            "CenterPolygon": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "RadiusPolygon": 0.0
+            ]
         }
-    ]
+    ],
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ForceSZCleanupInterval": 60000,
+    "ItemLifetimeInSafeZone": 900.0
 }
