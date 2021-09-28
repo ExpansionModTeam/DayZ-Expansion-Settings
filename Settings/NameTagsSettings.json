@@ -1,0 +1,8 @@
+{
+    "m_Version": 0,
+    "EnablePlayerTags": 1,
+    "PlayerTagViewRange": 5,
+    "PlayerTagsIcon": "DayZExpansion\\Core\\GUI\\icons\\hud\\persona_64x64.edds",
+    "ShowPlayerTagsInSafeZones": 1,
+    "ShowPlayerTagsInTerritories": 1
+}

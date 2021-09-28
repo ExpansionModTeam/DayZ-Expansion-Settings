@@ -1,6 +1,6 @@
 {
-    "m_Version": 5,
-    "VehicleSync": 1,
+    "m_Version": 6,
+    "VehicleSync": 0,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
     "VehicleLockedAllowInventoryAccess": 0,
@@ -29,6 +29,7 @@
     "ChangeLockTimeSeconds": 120,
     "ChangeLockToolDamagePercent": 10.0,
     "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehiclesConfig": [
         {
             "ClassName": "OffroadHatchback",

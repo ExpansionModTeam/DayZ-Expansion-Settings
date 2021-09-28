@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 3,
     "PlayerLocationNotifier": 1,
     "EnableGlobalChat": 1,
     "EnablePartyChat": 1,
@@ -20,8 +20,6 @@
     "EnableLighthouses": 1,
     "EnableHUDNightvisionOverlay": 1,
     "DisableMagicCrosshair": 1,
-    "EnablePlayerTags": 1,
-    "PlayerTagViewRange": 5,
     "EnableAutoRun": 1,
     "UnlimitedStamina": 0,
     "UseDeathScreen": 1,

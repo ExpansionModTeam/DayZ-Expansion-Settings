@@ -94,7 +94,7 @@
         "PrimaryWeapon": {},
         "SecondaryWeapon": {}
     },
-    "SpawnHealthValue": 100,
-    "SpawnEnergyValue": 500,
-    "SpawnWaterValue": 500
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 500.0,
+    "SpawnWaterValue": 500.0
 }
