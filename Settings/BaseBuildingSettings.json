@@ -54,9 +54,9 @@
                 12466.0
             ],
             "Radius": 2000.0,
-            "Items": [],
+            "Items": ["MyFirstItem","MySecondItem"],
             "IsWhitelist": 1,
-            "CustomMessage": ""
+            "CustomMessage": "My Custom Message when a player try to build at this zone"
         },
         {
             "Name": "Green Mountain Trader Camp",

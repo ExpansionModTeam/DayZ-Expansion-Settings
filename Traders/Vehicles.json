@@ -7,30 +7,6 @@
         "expansiongoldbar",
         "expansionsilverbar"
     ],
-    "Categories": [],
-    "Items": {
-        "offroadhatchback": 1,
-        "hatchback_02": 1,
-        "hatchbacktrunk": 1,
-        "hatchbackhood": 1,
-        "hatchbackdoors_driver": 1,
-        "hatchbackdoors_codriver": 1,
-        "hatchbackwheel": 1,
-        "hatchback_02_trunk": 1,
-        "hatchback_02_hood": 1,
-        "hatchback_02_door_1_1": 1,
-        "hatchback_02_door_2_1": 1,
-        "hatchback_02_door_1_2": 1,
-        "hatchback_02_door_2_2": 1,
-        "hatchback_02_trunk_blue": 1,
-        "hatchback_02_hood_blue": 1,
-        "hatchback_02_door_1_1_blue": 1,
-        "hatchback_02_door_2_1_blue": 1,
-        "hatchback_02_door_1_2_blue": 1,
-        "hatchback_02_door_2_2_blue": 1,
-        "hatchback_02_wheel": 1,
-        "carradiator": 1,
-        "carbattery": 1,
-        "sparkplug": 1
-    }
+    "Categories": ["Vehicle_Parts:3","Cars:1"],
+    "Items": {}
 }

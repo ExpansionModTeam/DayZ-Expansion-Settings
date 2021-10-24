@@ -32,19 +32,32 @@
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehiclesConfig": [
         {
-            "ClassName": "OffroadHatchback",
-            "CanPlayerAttach": 0,
-            "Weight": 1350.0
+            "ClassName": "ExpansionUAZCargoRoofless",
+            "CanPlayerAttach": 1
         },
         {
-            "ClassName": "Hatchback_02",
-            "CanPlayerAttach": 0,
-            "Weight": 1245.0
+            "ClassName": "ExpansionBus",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionUtilityBoat",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionZodiacBoat",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionLHD",
+            "CanPlayerAttach": 1
         },
         {
             "ClassName": "ExpansionMerlin",
-            "CanPlayerAttach": 1,
-            "Weight": 10500.0
+            "CanPlayerAttach": 1
         }
     ]
 }
