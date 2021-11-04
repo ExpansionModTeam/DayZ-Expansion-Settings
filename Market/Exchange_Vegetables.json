@@ -1,6 +1,8 @@
 {
     "m_Version": 4,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
     "Items": [        
         {
             "ClassName": "apple",
@@ -8,7 +10,6 @@
             "MinPriceThreshold": 1500,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -18,7 +19,6 @@
             "MinPriceThreshold": 100,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -28,7 +28,6 @@
             "MinPriceThreshold": 20000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -38,7 +37,6 @@
             "MinPriceThreshold": 500,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,6 +1,8 @@
 {
     "m_Version": 4,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TSHIRTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
     "Items": [
         {
             "ClassName": "tshirt_blue",
@@ -8,7 +10,6 @@
             "MinPriceThreshold": 8,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "tshirt_beige",
@@ -23,7 +24,6 @@
             "MinPriceThreshold": 10,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -33,7 +33,6 @@
             "MinPriceThreshold": 10,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -43,7 +42,6 @@
             "MinPriceThreshold": 12,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -53,7 +51,6 @@
             "MinPriceThreshold": 12,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

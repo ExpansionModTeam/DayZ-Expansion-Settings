@@ -1,6 +1,8 @@
 {
     "m_Version": 4,
     "DisplayName": "My Category Title !",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
     "Items": [
         {
             "ClassName": "m4a1",
@@ -8,7 +10,6 @@
             "MinPriceThreshold": 1500,
             "MaxStockThreshold": 30,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [
                 "m4_carryhandleoptic",
                 "m4_oebttstck",

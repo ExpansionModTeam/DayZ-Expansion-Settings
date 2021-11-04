@@ -1,6 +1,8 @@
 {
     "m_Version": 4,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CARS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
     "Items": [
         {
             "ClassName": "offroadhatchback",
@@ -8,7 +10,6 @@
             "MinPriceThreshold": 14000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 1,
             "SpawnAttachments": [
                 "hatchbackwheel",
                 "hatchbackwheel",
@@ -32,7 +33,6 @@
             "MinPriceThreshold": 16000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
-            "PurchaseType": 1,
             "SpawnAttachments": [
                 "hatchback_02_wheel",
                 "hatchback_02_wheel",

@@ -1,6 +1,8 @@
 {
     "m_Version": 4,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VEHICLE_PARTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
     "Items": [
         {
             "ClassName": "carbattery",
@@ -8,7 +10,6 @@
             "MinPriceThreshold": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -18,7 +19,6 @@
             "MinPriceThreshold": 200,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -28,7 +28,6 @@
             "MinPriceThreshold": 60,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -38,7 +37,6 @@
             "MinPriceThreshold": 300,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -48,7 +46,6 @@
             "MinPriceThreshold": 380,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -58,7 +55,6 @@
             "MinPriceThreshold": 450,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -68,7 +64,6 @@
             "MinPriceThreshold": 450,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -78,7 +73,6 @@
             "MinPriceThreshold": 500,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -88,7 +82,6 @@
             "MinPriceThreshold": 300,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_hood_blue"
@@ -100,7 +93,6 @@
             "MinPriceThreshold": 380,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_trunk_blue"
@@ -112,7 +104,6 @@
             "MinPriceThreshold": 450,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_1_1_blue"
@@ -124,7 +115,6 @@
             "MinPriceThreshold": 450,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_1_2_blue"
@@ -136,7 +126,6 @@
             "MinPriceThreshold": 450,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_2_1_blue"
@@ -148,7 +137,6 @@
             "MinPriceThreshold": 450,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_2_2_blue"
@@ -160,7 +148,6 @@
             "MinPriceThreshold": 500,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }
