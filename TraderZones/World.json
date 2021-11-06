@@ -1,7 +1,7 @@
 {
     "m_Version": 5,
     "m_ZoneName": "World",
-    "m_DisplayName": "This trader zone will be applied on the entire map due to his radius covering the entire map. Stock won't be localized, however will create issues with the Krasnostav Zone since it will overlap. keep only one of this two zones",
+    "m_DisplayName": "This trader zone is covering the entire map due to its radius and will be used for any traders that are not closer to any other zone. Note that stock is just an example, it'll be populated automatically and can then be edited when the server is not running.",
     "Position": [
         7500,
         0,
