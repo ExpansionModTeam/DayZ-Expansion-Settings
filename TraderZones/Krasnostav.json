@@ -1,7 +1,7 @@
 {
     "m_Version": 5,
     "m_ZoneName": "Krasnostav",
-    "m_DisplayName": "Krasnostav Trading Zone",
+    "m_DisplayName": "Krasnostav Trading Zon. Note that stock is just an example, it'll be populated automatically and can then be edited when the server is not running.",
     "Position": [
         11924.7001953125,
         140.6999969482422,
