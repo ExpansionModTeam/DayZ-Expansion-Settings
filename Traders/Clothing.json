@@ -9,12 +9,8 @@
         "expansionsilverbar",
         "expansionsilvernugget"
     ],
-    "Categories": [],
-    "Items": {
-        "tshirt_blue": 1,
-        "tshirt_green": 1,
-        "tshirt_black": 1,
-        "tshirt_grey": 1,
-        "tshirt_beige": 1
-    }
+    "Categories": [
+        "TShirts"
+    ],
+    "Items": {}
 }
