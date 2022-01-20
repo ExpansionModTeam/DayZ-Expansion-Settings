@@ -1,13 +1,15 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "My Category Title !",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
+    "InitStockPercent": 75,
     "Items": [
         {
             "ClassName": "m4a1",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 30,
             "MinStockThreshold": 1,
             "SpawnAttachments": [

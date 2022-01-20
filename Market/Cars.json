@@ -1,13 +1,15 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CARS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
+    "InitStockPercent": 75,
     "Items": [
         {
             "ClassName": "offroadhatchback",
             "MaxPriceThreshold": 28000,
             "MinPriceThreshold": 14000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [
@@ -31,6 +33,7 @@
             "ClassName": "hatchback_02",
             "MaxPriceThreshold": 32000,
             "MinPriceThreshold": 16000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
             "SpawnAttachments": [
