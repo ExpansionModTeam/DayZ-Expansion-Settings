@@ -23,6 +23,7 @@
                         "AKS74U_Bttstck"
                     ],
                     "Chance": 0.07999999821186066,
+                    "QuantityPercent": -1,
                     "Variants": [],
                     "Max": -1
                 },
@@ -37,6 +38,7 @@
                         "BandageDressing"
                     ],
                     "Chance": 0.3799999952316284,
+                    "QuantityPercent": -1,
                     "Variants": [
                         {
                             "Name": "FirstAidKit",
@@ -44,12 +46,14 @@
                                 "BandageDressing",
                                 "SalineBagIV"
                             ],
-                            "Chance": 0.13157899677753449
+                            "Chance": 0.13157899677753449,
+                            "QuantityPercent": -1
                         },
                         {
                             "Name": "FirstAidKit",
                             "Attachments": [],
-                            "Chance": 0.13157899677753449
+                            "Chance": 0.13157899677753449,
+                            "QuantityPercent": -1
                         }
                     ],
                     "Max": -1
@@ -58,6 +62,7 @@
                     "Name": "Bear_Pink",
                     "Attachments": [],
                     "Chance": 0.70,
+                    "QuantityPercent": -1,
                     "Variants": [],
                     "Max": 2
                 }
@@ -109,6 +114,7 @@
                     "Name": "SalineBagIV",
                     "Attachments": [],
                     "Chance": 0.40,
+                    "QuantityPercent": -1,
                     "Variants": [],
                     "Max": 2
                 },
@@ -116,6 +122,7 @@
                     "Name": "BandageDressing",
                     "Attachments": [],
                     "Chance": 0.50,
+                    "QuantityPercent": -1,
                     "Variants": [],
                     "Max": 2
                 },
@@ -123,6 +130,7 @@
                     "Name": "Bear_Pink",
                     "Attachments": [],
                     "Chance": 0.70,
+                    "QuantityPercent": -1,
                     "Variants": [],
                     "Max": 2
                 }

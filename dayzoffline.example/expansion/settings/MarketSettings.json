@@ -1,17 +1,7 @@
 {
-    "m_Version": 7,
+    "m_Version": 9,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
-    "MarketAmmoBoxes": [
-        {
-            "Ammo": "Ammo_556x45",
-            "AmmoBox": "AmmoBox_556x45_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_556x45Tracer",
-            "AmmoBox": "AmmoBox_556x45Tracer_20Rnd"
-        }
-    ],
     "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
     "ATMSystemEnabled": 1,
     "MaxDepositMoney": 100000,
@@ -19,7 +9,6 @@
     "ATMPlayerTransferEnabled": 1,
     "ATMPartyLockerEnabled": 1,
     "MaxPartyDepositMoney": 100000,
-    "MarketVIPs": [],
     "UseWholeMapForATMPlayerList": 0,
     "SellPricePercent": 75.0,
     "NetworkBatchSize": 100,
@@ -52,6 +41,54 @@
                 0.0,
                 0.0
             ]
+        },
+        {
+            "Position": [
+                11878.0,
+                140.0,
+                12482.7998046875
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                1145.0,
+                6.0,
+                2405.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                3722.77001953125,
+                402.0,
+                6018.93017578125
+            ],
+            "Orientation": [
+                138.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                3737.18994140625,
+                402.70001220703127,
+                6001.9501953125
+            ],
+            "Orientation": [
+                138.0,
+                0.0,
+                0.0
+            ]
         }
     ],
     "AirSpawnPositions": [
@@ -78,6 +115,42 @@
                 0.0,
                 0.0
             ]
+        },
+        {
+            "Position": [
+                5006.27001953125,
+                9.5,
+                2491.10009765625
+            ],
+            "Orientation": [
+                -131.6999969482422,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                4982.0,
+                9.5,
+                2468.0
+            ],
+            "Orientation": [
+                -131.6999969482422,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                4968.0,
+                9.5,
+                2513.0
+            ],
+            "Orientation": [
+                -131.6999969482422,
+                0.0,
+                0.0
+            ]
         }
     ],
     "WaterSpawnPositions": [
@@ -101,6 +174,54 @@
             ],
             "Orientation": [
                 -147.5,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                14344.099609375,
+                0.0,
+                13219.7001953125
+            ],
+            "Orientation": [
+                -147.5,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                14360.900390625,
+                0.0,
+                13246.7001953125
+            ],
+            "Orientation": [
+                -147.5,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                1760.0,
+                0.0,
+                1730.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                14540.0,
+                0.0,
+                12995.0
+            ],
+            "Orientation": [
+                0.0,
                 0.0,
                 0.0
             ]
@@ -143,5 +264,11 @@
         "ColorToggleCategoriesText": "C726518C",
         "ColorCategoryCorners": "FBFCFEFF",
         "ColorCategoryBackground": "222526FF"
-    }
+    },
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ]
 }

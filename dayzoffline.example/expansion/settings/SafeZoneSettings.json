@@ -1,7 +1,7 @@
 {
-    "m_Version": 4,
+    "m_Version": 6,
     "Enabled": 1,
-    "FrameRateCheckSafeZoneInMs": 5000,
+    "FrameRateCheckSafeZoneInMs": 0,
     "CircleZones": [
         {
             "Type": 1,

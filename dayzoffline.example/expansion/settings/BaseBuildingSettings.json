@@ -24,7 +24,11 @@
     "DeployableInsideAEnemyTerritory": [
         "ExpansionSatchel",
         "LandMineTrap",
-        "BearTrap"
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap"
     ],
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 1,
@@ -41,9 +45,6 @@
     "SimpleTerritory": 1,
     "AutomaticFlagOnCreation": 1,
     "GetTerritoryFlagKitAfterBuild": 0,
-    "CodelockAttachMode": 1,
-    "DismantleFlagMode": 1,
-    "FlagMenuMode": 1,
     "BuildZoneRequiredCustomMessage": "",
     "Zones": [
         {
@@ -53,10 +54,18 @@
                 143.0,
                 12466.0
             ],
-            "Radius": 2000.0,
-            "Items": ["MyFirstItem","MySecondItem"],
+            "Radius": 1000.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
             "IsWhitelist": 1,
-            "CustomMessage": "My Custom Message when a player try to build at this zone"
+            "CustomMessage": ""
         },
         {
             "Name": "Green Mountain Trader Camp",
@@ -65,11 +74,42 @@
                 403.0,
                 6003.60009765625
             ],
-            "Radius": 2000.0,
-            "Items": [],
+            "Radius": 1000.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Kamenka Trader Camp",
+            "Center": [
+                1143.1400146484376,
+                6.900000095367432,
+                2423.27001953125
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
             "IsWhitelist": 1,
             "CustomMessage": ""
         }
     ],
-    "ZonesAreNoBuildZones": 1
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 1,
+    "DismantleFlagMode": 1,
+    "FlagMenuMode": 1
 }

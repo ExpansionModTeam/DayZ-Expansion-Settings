@@ -12,6 +12,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
                 "tshirt_beige",
@@ -27,6 +28,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -37,6 +39,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -47,6 +50,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -57,6 +61,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         }

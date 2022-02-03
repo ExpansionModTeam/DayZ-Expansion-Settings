@@ -23,6 +23,7 @@
                 "AKS74U_Bttstck"
             ],
             "Chance": 0.07999999821186066,
+            "QuantityPercent": -1,
             "Variants": [],
             "Max": -1
         },
@@ -30,6 +31,7 @@
             "Name": "Bear_Pink",
             "Attachments": [],
             "Chance": 0.70,
+            "QuantityPercent": -1,
             "Variants": [],
             "Max": 2
         }

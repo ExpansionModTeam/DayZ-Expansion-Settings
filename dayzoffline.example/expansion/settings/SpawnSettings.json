@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 3,
     "StartingClothing": {
         "EnableCustomClothing": 1,
         "SetRandomHealth": 1,
@@ -7,28 +7,48 @@
         "Glasses": [],
         "Masks": [],
         "Tops": [
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
             "TShirt_OrangeWhiteStripes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
             "TShirt_RedBlackStripes"
         ],
         "Vests": [],
         "Gloves": [],
         "Pants": [
+            "CanvasPants_Beige",
             "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
             "CanvasPantsMidi_Violet"
         ],
         "Belts": [],
         "Shoes": [
             "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
             "AthleticShoes_Black"
         ],
         "Armbands": [],
         "Backpacks": [
+            "TaloonBag_Blue",
             "TaloonBag_Green",
+            "TaloonBag_Orange",
             "TaloonBag_Violet"
         ]
     },
     "EnableSpawnSelection": 1,
-    "SpawnSelectionScreenMenuID": 1004,
     "SpawnOnTerritory": 0,
     "SpawnLocations": [
         {
@@ -75,7 +95,7 @@
             },
             {
                 "ClassName": "Apple",
-                "Quantity": 1,
+                "Quantity": -1,
                 "Attachments": []
             }
         ],
@@ -83,7 +103,7 @@
         "BackpackGear": [
             {
                 "ClassName": "FNX45",
-                "Quantity": 1,
+                "Quantity": -1,
                 "Attachments": [
                     "Mag_FNX45_15Rnd",
                     "PistolSuppressor"
@@ -91,8 +111,18 @@
             }
         ],
         "VestGear": [],
-        "PrimaryWeapon": {},
-        "SecondaryWeapon": {}
+        "PrimaryWeapon":
+        {
+            "ClassName": "AKM",
+            "Quantity": -1,
+            "Attachments": []
+        },
+        "SecondaryWeapon":
+        {
+            "ClassName": "M4A1",
+            "Quantity": -1,
+            "Attachments": []
+        }
     },
     "SpawnHealthValue": 100.0,
     "SpawnEnergyValue": 500.0,

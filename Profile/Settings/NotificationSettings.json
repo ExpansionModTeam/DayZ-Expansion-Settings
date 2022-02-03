@@ -40,9 +40,5 @@
     "KillFeedAnimal": 1,
     "KillFeedKilledUnknown": 1,
     "KillFeedDiedUnknown": 1,
-    "EnableKillFeedDiscordMsg": 0,
-    "ShowVictimOnKillFeed": 1,
-    "ShowDistanceOnKillFeed": 1,
-    "ShowKillerOnKillFeed": 1,
-    "ShowWeaponOnKillFeed": 1
+    "EnableKillFeedDiscordMsg": 0
 }

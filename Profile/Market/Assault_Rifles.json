@@ -12,6 +12,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 30,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "m4_carryhandleoptic",
                 "m4_oebttstck",
