@@ -28,39 +28,63 @@
     ],
     "ChangeLockTimeSeconds": 120,
     "ChangeLockToolDamagePercent": 10.0,
+    "VehicleRoadKillDamageMultiplier": 1.0,
     "PlacePlayerOnGroundOnReconnectInVehicle": 2,
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 1,
     "ExplodingVehicleDropsAttachments": 1,
-    "ForcePilotSyncIntervalSeconds": 1.0,
+    "DesyncInvulnerabilityTimeoutSeconds": 3.0,
+    "DamagedEngineStartupChancePercent": 1.0,
     "VehiclesConfig": [
         {
             "ClassName": "ExpansionUAZCargoRoofless",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionUAZ",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
         },
         {
             "ClassName": "ExpansionBus",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.5
         },
         {
             "ClassName": "ExpansionVodnik",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.0
         },
         {
             "ClassName": "ExpansionUtilityBoat",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.25
         },
         {
             "ClassName": "ExpansionZodiacBoat",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 0.5
         },
         {
             "ClassName": "ExpansionLHD",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 100.0
         },
         {
             "ClassName": "ExpansionMerlin",
-            "CanPlayerAttach": 1
+            "CanPlayerAttach": 1,
+            "LockComplexity": 4.0
+        },
+        {
+            "ClassName": "ExpansionMh6",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 3.0
+        },
+        {
+            "ClassName": "ExpansionUh1h",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
         }
     ]
 }
