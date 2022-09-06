@@ -34,7 +34,7 @@
     "VehicleDropsRuinedDoors": 1,
     "ExplodingVehicleDropsAttachments": 1,
     "DesyncInvulnerabilityTimeoutSeconds": 3.0,
-    "DamagedEngineStartupChancePercent": 1.0,
+    "DamagedEngineStartupChancePercent": 100.0,
     "VehiclesConfig": [
         {
             "ClassName": "ExpansionUAZCargoRoofless",
