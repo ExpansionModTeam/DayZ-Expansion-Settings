@@ -1,0 +1,68 @@
+{
+    "ConfigVersion": 5,
+    "ID": 2,
+    "Type": 2,
+    "Title": "A favor for Steve...",
+    "Descriptions": [
+        "So, Peter sends you, hmm? Well I have what he wants, although he still owes me something... But I'm also not a bad guy. Let's say if you do me a favor, too, I'll give you what Peter wants and even more. I gotta keep watch and make sure no shit happens around here. I want you to take this sledgehammer and clean up the village with it. There are a few Infected that have to be eliminated before they start moving into the camp.",
+        "You are not done yet? How hard can it be to smash some heads with that hammer... Come back when the job is done!",
+        "Oh there you are! I thought the Infected got your ass and killed you... Well, here is your reward."
+    ],
+    "ObjectiveText": "Kill 10 civilian Infected with Steve's sledgehammer.",
+    "PreQuest": 1,
+    "FollowUpQuest": 3,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 2,
+            "ObjectiveType": 3,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 9,
+            "ID": 1,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [
+        {
+            "ClassName": "SledgeHammer",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "WaterBottle",
+            "Amount": 1,
+            "Attachments": []
+        },
+        {
+            "ClassName": "TunaCan",
+            "Amount": 1,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ]
+}

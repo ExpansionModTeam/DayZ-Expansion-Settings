@@ -1,0 +1,94 @@
+{
+    "m_Version": 13,
+    "VehicleSync": 0,
+    "VehicleRequireKeyToStart": 1,
+    "VehicleRequireAllDoors": 1,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
+    "MasterKeyPairingMode": 2,
+    "MasterKeyUses": 2,
+    "CanPickLock": 0,
+    "PickLockTools": [
+        "Lockpick"
+    ],
+    "PickLockChancePercent": 40.0,
+    "PickLockTimeSeconds": 120,
+    "PickLockToolDamagePercent": 10.0,
+    "EnableWindAerodynamics": 0,
+    "EnableTailRotorDamage": 1,
+    "PlayerAttachment": 1,
+    "Towing": 1,
+    "EnableHelicopterExplosions": 1,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 1.0,
+    "VehicleSpeedDamageMultiplier": 1.0,
+    "CanChangeLock": 0,
+    "ChangeLockTools": [
+        "Screwdriver"
+    ],
+    "ChangeLockTimeSeconds": 120,
+    "ChangeLockToolDamagePercent": 10.0,
+    "VehicleRoadKillDamageMultiplier": 1.0,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "RevvingOverMaxRPMRuinsEngineInstantly": 0,
+    "VehicleDropsRuinedDoors": 1,
+    "ExplodingVehicleDropsAttachments": 1,
+    "DesyncInvulnerabilityTimeoutSeconds": 3.0,
+    "DamagedEngineStartupChancePercent": 100.0,
+    "EnableVehicleCovers": 1,
+    "UseVirtualStorageForCoverCargo": 0,
+    "VehicleAutoCoverTimeSeconds": 0.0,
+    "VehicleAutoCoverRequireCamonet": 0,
+    "VehiclesConfig": [
+        {
+            "ClassName": "ExpansionUAZCargoRoofless",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionUAZ",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionBus",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.5
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.0
+        },
+        {
+            "ClassName": "ExpansionUtilityBoat",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.25
+        },
+        {
+            "ClassName": "ExpansionZodiacBoat",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 0.5
+        },
+        {
+            "ClassName": "ExpansionLHD",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 100.0
+        },
+        {
+            "ClassName": "ExpansionMerlin",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 4.0
+        },
+        {
+            "ClassName": "ExpansionMh6",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 3.0
+        },
+        {
+            "ClassName": "ExpansionUh1h",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 2.5
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "ConfigVersion": 9,
+    "ID": 1,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all 10 bandits at the marked location",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                4351.330078125,
+                307.0679931640625,
+                6400.52001953125
+            ],
+            [
+                4389.02978515625,
+                302.802001953125,
+                6391.77001953125
+            ],
+            [
+                4416.669921875,
+                301.97698974609377,
+                6395.7001953125
+            ],
+            [
+                4431.81982421875,
+                298.9010009765625,
+                6452.22021484375
+            ],
+            [
+                4418.52001953125,
+                299.6000061035156,
+                6441.919921875
+            ],
+            [
+                4475.16015625,
+                295.2200012207031,
+                6461.56982421875
+            ],
+            [
+                4485.009765625,
+                295.2200012207031,
+                6466.97021484375
+            ],
+            [
+                4435.5400390625,
+                297.74700927734377,
+                6470.2998046875
+            ],
+            [
+                4556.2998046875,
+                289.2749938964844,
+                6390.83984375
+            ],
+            [
+                4523.009765625,
+                290.427001953125,
+                6448.2998046875
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "BanditLoadout.json",
+        "NPCAccuracyMin": 0.0,
+        "NPCAccuracyMax": 0.0,
+        "ClassNames": [
+            "eAI_SurvivorM_Mirek",
+            "eAI_SurvivorM_Denis",
+            "eAI_SurvivorM_Boris",
+            "eAI_SurvivorM_Cyril",
+            "eAI_SurvivorM_Elias",
+            "eAI_SurvivorM_Francis",
+            "eAI_SurvivorM_Guo",
+            "eAI_SurvivorM_Hassan",
+            "eAI_SurvivorM_Indar",
+            "eAI_SurvivorM_Jose",
+            "eAI_SurvivorM_Kaito",
+            "eAI_SurvivorM_Lewis",
+            "eAI_SurvivorM_Manua",
+            "eAI_SurvivorM_Niki",
+            "eAI_SurvivorM_Oliver",
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
+            "eAI_SurvivorM_Rolf",
+            "eAI_SurvivorM_Seth",
+            "eAI_SurvivorM_Taiki",
+            "eAI_SurvivorF_Linda",
+            "eAI_SurvivorF_Maria",
+            "eAI_SurvivorF_Frida",
+            "eAI_SurvivorF_Gabi",
+            "eAI_SurvivorF_Helga",
+            "eAI_SurvivorF_Irena",
+            "eAI_SurvivorF_Judy",
+            "eAI_SurvivorF_Keiko",
+            "eAI_SurvivorF_Eva",
+            "eAI_SurvivorF_Naomi",
+            "eAI_SurvivorF_Baty"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1
+}

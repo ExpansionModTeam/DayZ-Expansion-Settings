@@ -1,0 +1,51 @@
+{
+    "ConfigVersion": 5,
+    "ID": 22,
+    "Type": 9,
+    "Title": "[VIP] Test quest",
+    "Descriptions": [
+        "PLACEHOLDER",
+        "PLACEHOLDER",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "PLACEHOLDER",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 1,
+            "ObjectiveType": 9,
+            "ObjectiveText": "",
+            "TimeLimit": 180
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverNugget",
+            "Amount": 100,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        2
+    ]
+}

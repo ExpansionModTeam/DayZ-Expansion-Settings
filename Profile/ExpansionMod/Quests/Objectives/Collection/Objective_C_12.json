@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 12,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Bandit Dogtag",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Dogtag_Bandit"
+    }
+}

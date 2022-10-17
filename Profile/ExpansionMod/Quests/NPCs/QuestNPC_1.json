@@ -1,0 +1,38 @@
+{
+    "ConfigVersion": 1,
+    "ID": 1,
+    "ClassName": "ExpansionQuestNPCAIDenis",
+    "IsAI": 1,
+    "Position": [
+        3706.27001953125,
+        402.0119934082031,
+        5987.080078125
+    ],
+    "Orientation": [
+        282.0,
+        0.0,
+        0.0
+    ],
+    "QuestIDs": [
+        1,
+        3,
+        22,
+        24,
+        25,
+        26,
+        27
+    ],
+    "NPCName": "Peter",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [
+        [
+            3706.27001953125,
+            402.0119934082031,
+            5987.080078125
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "NBCLoadout",
+    "IsStatic": 0
+}

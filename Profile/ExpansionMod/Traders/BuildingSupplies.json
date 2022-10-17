@@ -1,0 +1,21 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Nails",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Gardening",
+        "Tools",
+        "Supplies",
+        "Locks",
+        "Containers",
+        "Tents",
+        "Furnishings",
+        "Flags"
+    ],
+    "Items": {}
+}

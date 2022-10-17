@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Green Mountain Trading Zone",
+    "Position": [
+        3728.27001953125,
+        403.0,
+        6003.60009765625
+    ],
+    "Radius": 500.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

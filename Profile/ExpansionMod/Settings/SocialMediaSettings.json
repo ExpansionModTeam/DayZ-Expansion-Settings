@@ -1,0 +1,21 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "CHANGE ME",
+            "m_Text": "THIS IS A PLACEHOLDER TEXT"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://www.google.com/"
+        },
+        {
+            "m_Label": "Twitter",
+            "m_Icon": "set:expansion_iconset image:icon_twitter",
+            "m_URL": "https://www.google.com/"
+        }
+    ]
+}

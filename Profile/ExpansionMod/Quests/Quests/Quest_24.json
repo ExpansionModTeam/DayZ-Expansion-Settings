@@ -1,0 +1,51 @@
+{
+    "ConfigVersion": 5,
+    "ID": 24,
+    "Type": 4,
+    "Title": "Apple Juice",
+    "Descriptions": [
+        "PLACEHOLDER",
+        "Obtain 5 apples.",
+        "Turn in quest to get reward."
+    ],
+    "ObjectiveText": "Get 5 Apples",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 2,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverNugget",
+            "Amount": 10,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ]
+}

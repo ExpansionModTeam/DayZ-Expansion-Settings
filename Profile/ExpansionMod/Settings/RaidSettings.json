@@ -1,0 +1,49 @@
+{
+    "m_Version": 3,
+    "ExplosionTime": 30.0,
+    "ExplosiveDamageWhitelist": [
+        "Expansion_C4_Explosion",
+        "Expansion_RPG_Explosion",
+        "Expansion_LAW_Explosion",
+        "RGD5Grenade_Ammo",
+        "M67Grenade_Ammo",
+        "FlashGrenade_Ammo",
+        "LandFuelFeed_Ammo"
+    ],
+    "EnableExplosiveWhitelist": 0,
+    "ExplosionDamageMultiplier": 50.0,
+    "ProjectileDamageMultiplier": 1.0,
+    "CanRaidSafes": 1,
+    "SafeExplosionDamageMultiplier": 17.0,
+    "SafeProjectileDamageMultiplier": 1.0,
+    "SafeRaidTools": [
+        "ExpansionPropaneTorch"
+    ],
+    "SafeRaidToolTimeSeconds": 600,
+    "SafeRaidToolCycles": 5,
+    "SafeRaidToolDamagePercent": 100.0,
+    "CanRaidBarbedWire": 1,
+    "BarbedWireRaidTools": [
+        "ExpansionBoltCutters"
+    ],
+    "BarbedWireRaidToolTimeSeconds": 300,
+    "BarbedWireRaidToolCycles": 5,
+    "BarbedWireRaidToolDamagePercent": 100.0,
+    "CanRaidLocksOnWalls": 0,
+    "CanRaidLocksOnFences": 0,
+    "CanRaidLocksOnTents": 0,
+    "LockRaidTools": [],
+    "LockOnWallRaidToolTimeSeconds": 900,
+    "LockOnFenceRaidToolTimeSeconds": 900,
+    "LockOnTentRaidToolTimeSeconds": 600,
+    "LockRaidToolCycles": 5,
+    "LockRaidToolDamagePercent": 100.0,
+    "BaseBuildingRaidMode": 0,
+    "CanRaidLocksOnContainers": 1,
+    "LockOnContainerRaidTools": [
+        "ExpansionPropaneTorch"
+    ],
+    "LockOnContainerRaidToolTimeSeconds": 600,
+    "LockOnContainerRaidToolCycles": 5,
+    "LockOnContainerRaidToolDamagePercent": 100.0
+}

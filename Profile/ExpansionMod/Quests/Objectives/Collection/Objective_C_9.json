@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 9,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Killer Dogtag",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Dogtag_Killer"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "ConfigVersion": 1,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCAIElias",
+    "IsAI": 1,
+    "Position": [
+        3192.199951171875,
+        296.7070007324219,
+        6093.31005859375
+    ],
+    "Orientation": [
+        145.0,
+        0.0,
+        0.0
+    ],
+    "QuestIDs": [
+        1,
+        2,
+        3,
+        22
+    ],
+    "NPCName": "Steve",
+    "DefaultNPCText": "What do you want? I am busy...",
+    "Waypoints": [
+        [
+            3192.199951171875,
+            296.7070007324219,
+            6093.31005859375
+        ]
+    ],
+    "NPCEmoteID": 14,
+    "NPCEmoteIsStatic": 1,
+    "NPCLoadoutFile": "NBCLoadout",
+    "IsStatic": 0
+}

@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Kamenka Trading Zone",
+    "Position": [
+        1143.1400146484376,
+        6.900000095367432,
+        2429.27001953125
+    ],
+    "Radius": 700.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

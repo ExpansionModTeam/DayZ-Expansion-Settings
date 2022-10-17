@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 7,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Kleptomaniac Dogtag",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Dogtag_Kleptomaniac"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 2,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 5 apples",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 5,
+        "ClassName": "Apple"
+    }
+}

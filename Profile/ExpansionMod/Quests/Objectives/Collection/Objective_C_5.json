@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 5,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Superhero Dogtag",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Dogtag_Superhero"
+    }
+}

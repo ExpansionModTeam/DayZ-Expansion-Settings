@@ -1,12 +1,11 @@
 {
-    "m_Version": 3,
+    "m_Version": 4,
     "CanBuildAnywhere": 1,
     "AllowBuildingWithoutATerritory": 1,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
         "Fireplace",
         "TerritoryFlagKit",
-        "TerritoryFlag",
         "MediumTent",
         "LargeTent",
         "CarTent",
@@ -14,11 +13,17 @@
         "ExpansionCamoTentKit",
         "ExpansionCamoBoxKit",
         "ShelterKit",
+        "LandMineTrap",
         "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
         "ExpansionSafeLarge",
         "ExpansionSafeMedium",
         "ExpansionSafeSmall",
         "SeaChest",
+        "WoodenCrate",
         "GardenPlot"
     ],
     "DeployableInsideAEnemyTerritory": [
@@ -111,5 +116,9 @@
     "ZonesAreNoBuildZones": 1,
     "CodelockAttachMode": 1,
     "DismantleFlagMode": 1,
-    "FlagMenuMode": 1
+    "FlagMenuMode": 1,
+    "EnableVirtualStorage": 0,
+    "VirtualStorageExcludedContainers": [
+        "ExpansionAirdropContainerBase"
+    ]
 }

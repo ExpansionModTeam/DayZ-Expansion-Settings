@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 13,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Craft an improvised fishing rod!",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "ImprovisedFishingRod"
+    }
+}

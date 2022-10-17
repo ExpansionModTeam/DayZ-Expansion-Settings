@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 5,
+    "ID": 3,
+    "Type": 5,
+    "Title": "Peter's package",
+    "Descriptions": [
+        "Oh right, here's what Peter wants. Bring it to him and he will be satisfied. Don't even think about opening the package! Just go and bring it to him.",
+        "What are you doing still here? Go to Peter!",
+        "Why did this take so long?... You got what I wanted? ** (He looks at the package with wide eyes and rips it out of your hands) ** Good!... What? Your way out? Well what should I say, but I lied to you. There is no fucking way out of this hell, and you will die here as we all. You can have this backpack and try your luck out there. I am sorry I lied to you, but we all have to see how we somehow survive here. I wish you good luck out there... You will need it."
+    ],
+    "ObjectiveText": "Go back to peter and give him the package from Steve.",
+    "PreQuest": 2,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 2,
+            "ObjectiveType": 5,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TaloonBag_Blue",
+            "Amount": 1,
+            "Attachments": []
+        },
+        {
+            "ClassName": "TaloonBag_Green",
+            "Amount": 1,
+            "Attachments": []
+        },
+        {
+            "ClassName": "TaloonBag_Orange",
+            "Amount": 1,
+            "Attachments": []
+        },
+        {
+            "ClassName": "TaloonBag_Violet",
+            "Amount": 1,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        1
+    ]
+}

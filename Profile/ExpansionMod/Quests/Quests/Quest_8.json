@@ -1,0 +1,51 @@
+{
+    "ConfigVersion": 5,
+    "ID": 8,
+    "Type": 2,
+    "Title": "Kill - Civilian Infected",
+    "Descriptions": [
+        "PLACEHOLDER",
+        "PLACEHOLDER",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "Kill 100 civilian Infected.",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 2,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverNugget",
+            "Amount": 1000,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ]
+}

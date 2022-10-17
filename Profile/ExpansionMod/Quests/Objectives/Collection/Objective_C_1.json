@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 1,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Survivor Dogtag",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Dogtag_Survivor"
+    }
+}

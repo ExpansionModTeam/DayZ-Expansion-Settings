@@ -1,0 +1,63 @@
+{
+    "ConfigVersion": 5,
+    "ID": 25,
+    "Type": 4,
+    "Title": "Catch a Fish",
+    "Descriptions": [
+        "PLACEHOLDER",
+        "Craft an improvidsed fishing rod and catch a mackerel.",
+        "Turn in quest to get reward."
+    ],
+    "ObjectiveText": "Craft an improvised fishing rod and catch a mackerel!",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 1,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 9,
+            "ID": 14,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverNugget",
+            "Amount": 10,
+            "Attachments": []
+        },
+        {
+            "ClassName": "ImprovisedFishingRod",
+            "Amount": 1,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ]
+}

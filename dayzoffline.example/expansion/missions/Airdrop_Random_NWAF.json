@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 54.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_NWAF",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 4807.0,
+        "z": 9812.0,
+        "Name": "NWAF",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

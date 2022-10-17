@@ -1,0 +1,41 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Rifles",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Crossbows",
+        "Melee_Weapons",
+        "Ammo",
+        "Ammo_Boxes",
+        "Knifes",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3"
+    ],
+    "Items": {
+        "expansionammorpg": 3,
+        "ammo_expansion_m203_smoke_white": 3,
+        "tlrlight": 3,
+        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "universallight": 3,
+        "ammo_expansion_m203_smoke_teargas": 3,
+        "flaregun": 1,
+        "ammo_expansion_m203_he": 3,
+        "expansionammolaw": 3,
+        "ammo_expansion_m203_sticky_smoke_white": 3
+    }
+}

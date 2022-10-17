@@ -1,0 +1,18 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Fishing"
+    ],
+    "Items": {
+        "carp": 1,
+        "mackerel": 1,
+        "sardines": 1
+    }
+}

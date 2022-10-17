@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 14,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch a mackerel",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Mackerel"
+    }
+}

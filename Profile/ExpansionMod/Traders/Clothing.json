@@ -1,0 +1,19 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Blouses_And_Suits",
+        "Coats_And_Jackets",
+        "Shirts_And_TShirts",
+        "Skirts_And_Dresses",
+        "Pants_And_Shorts",
+        "Boots_And_Shoes"
+    ],
+    "Items": {}
+}

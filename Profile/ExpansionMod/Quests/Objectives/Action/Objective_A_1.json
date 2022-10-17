@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 9,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ExpansionVehicleActionPickLock",
+        "ExpansionActionPickVehicleLockBase",
+        "ExpansionActionPickVehicleLock"
+    ]
+}

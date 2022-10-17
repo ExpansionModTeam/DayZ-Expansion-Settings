@@ -1,0 +1,30 @@
+{
+    "ConfigVersion": 1,
+    "ID": 5,
+    "ClassName": "ExpansionQuestBoardLarge",
+    "IsAI": 0,
+    "Position": [
+        3706.610107421875,
+        403.25,
+        5983.39990234375
+    ],
+    "Orientation": [
+        170.99000549316407,
+        0.0,
+        0.0
+    ],
+    "QuestIDs": [
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "NPCName": "Quest Board",
+    "DefaultNPCText": "There is nothing to do here for you...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "IsStatic": 1
+}

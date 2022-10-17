@@ -1,0 +1,27 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_COMPONENTS",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Tools",
+        "Supplies",
+        "Locks",
+        "Containers",
+        "Tents",
+        "Kits",
+        "Navigation",
+        "Electronics",
+        "Lights"
+    ],
+    "Items": {
+        "nvgoggles": 3,
+        "rangefinder": 3,
+        "universallight": 3,
+        "tlrlight": 3
+    }
+}

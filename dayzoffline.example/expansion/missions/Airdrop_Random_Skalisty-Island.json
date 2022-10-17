@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 774.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Skalisty Island",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 13452.0,
+        "z": 3112.0,
+        "Name": "Skalisty Island",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

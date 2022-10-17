@@ -1,0 +1,45 @@
+{
+    "ConfigVersion": 5,
+    "ID": 5,
+    "Type": 6,
+    "Title": "Treasure Hunt - Currency",
+    "Descriptions": [
+        "PLACEHOLDER",
+        "PLACEHOLDER",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "Find the treasure.",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 1,
+            "ObjectiveType": 6,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 454.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Myshkinko",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 2036.0,
+        "z": 7491.0,
+        "Name": "Myshkinko",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

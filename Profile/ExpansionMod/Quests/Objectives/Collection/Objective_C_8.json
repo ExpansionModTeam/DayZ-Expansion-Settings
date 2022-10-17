@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 9,
+    "ID": 8,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect a Bully Dogtag",
+    "TimeLimit": -1,
+    "Collection": {
+        "Amount": 1,
+        "ClassName": "Dogtag_Bully"
+    }
+}

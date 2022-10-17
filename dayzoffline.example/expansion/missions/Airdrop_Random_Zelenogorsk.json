@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 374.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Zelenogorsk",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 2351.0,
+        "z": 5393.0,
+        "Name": "Zelenogorsk",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

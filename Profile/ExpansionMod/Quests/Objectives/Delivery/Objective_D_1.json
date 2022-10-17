@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 9,
+    "ID": 1,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the note to Steve",
+    "TimeLimit": -1,
+    "Deliveries": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItemPaper"
+        }
+    ],
+    "Position": [
+        3193.590087890625,
+        296.7070007324219,
+        6090.56982421875
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Talk to Steve",
+    "ShowDistance": 1
+}

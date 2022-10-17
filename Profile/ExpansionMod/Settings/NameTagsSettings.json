@@ -1,0 +1,10 @@
+{
+    "m_Version": 2,
+    "EnablePlayerTags": 1,
+    "PlayerTagViewRange": 5,
+    "PlayerTagsIcon": "Persona",
+    "PlayerTagsColor": -1,
+    "PlayerNameColor": -1,
+    "OnlyInSafeZones": 0,
+    "OnlyInTerritories": 0
+}
